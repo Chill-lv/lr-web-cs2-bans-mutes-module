@@ -24,11 +24,13 @@ Counter-Strike Sharp Plugin:
 3. Go to AdminCP  & refresh module cache 
 4. Go to AdminCP - Database Settings - Add MiniAdmin for table use miniadmin
 
-## Info:
+## Demo:
 
 [Demo Page Bans ](https://stats.chill.lv/bans/)
 
 [Demo Page Profile ](https://stats.chill.lv/profiles/STEAM_1:0:2133916/0/)
+
+## Support?
 
 NO Support! we will not respond to issues but  we will release fixes if needed, feel free to make pr if you have bug fix / optimisation or any other updates!
 
