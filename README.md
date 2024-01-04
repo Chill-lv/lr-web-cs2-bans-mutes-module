@@ -25,7 +25,7 @@ Basic Ban/Comms List Page that works with user profiles for your LR Web!  Module
 
 [Demo Page Bans ](https://stats.chill.lv/bans/)
 
-[Demo Page Profile ](https://stats.chill.lv/profiles/STEAM_1:0:2133916/0/)
+[Demo Page Profile ](https://stats.chill.lv/profiles/STEAM_1:0:2133916/block/0/)
 
 ## Support?
 
