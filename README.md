@@ -29,8 +29,7 @@ Basic Ban/Comms List Page that works with user profiles for your LR Web!  Module
 
 ## Support?
 
-NO Support! We will not respond to issues but  we will release fixes if needed, feel free to make pr if you have bug fix / optimisation or any other updates!
-
+ We will not respond to setting up issues but  we will release fixes if needed, feel free to make pr if you have bug fix / optimisation or any other updates!
 
 ## To Do:
 
@@ -70,7 +69,8 @@ WEB-часть [Rich Template](https://discord.com/invite/sYKAk3GCbD)
 [Страница профиля Демо](https://stats.chill.lv/profiles/STEAM_1:0:2133916/block/0/)
 
 ## Поддержка?
-Нет поддержки! Мы не будем отвечать на вопросы, но, если необходимо, мы выпустим исправления, не стесняйтесь отправлять pull request, если у вас есть исправление ошибок, оптимизация или какие-либо другие обновления!
+
+Мы не будем реагировать на проблемы с настройкой, но мы выпустим исправления, если это необходимо. Не стесняйтесь создавать запрос на изменение (pull request), если у вас есть исправление ошибок, оптимизация или любые другие обновления!
 
 ## Планы:
 Обновить веб-модуль MiniSystems, чтобы работать с этим плагином miniadmin.
