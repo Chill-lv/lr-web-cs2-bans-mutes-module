@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>romania@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-662.000000, -376.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="romania">
+            <g transform="translate(592.000000, 306.000000)">
+                <path d="M7,0.42 C3.48746899,0.42 0.64,3.26746899 0.64,6.78 L0.64,41.05 C0.64,44.562531 3.48746899,47.41 7,47.41 L24,47.41 C24,31.7433333 24,16.0766667 24,0.41 L7,0.42 Z" id="Shape" fill="#4A89DC"></path>
+                <path d="M24,0.42 C24,16.0866667 24,31.7533333 24,47.42 L47.35,47.42 C47.35,31.7533333 47.35,16.0866667 47.35,0.42 L24,0.42 Z" id="Shape" fill="#FFCE54"></path>
+                <path d="M64.27,0.42 L47.32,0.42 C47.32,16.0866667 47.32,31.7533333 47.32,47.42 L64.27,47.42 C67.782531,47.42 70.63,44.572531 70.63,41.06 L70.63,6.79 C70.6326549,5.10149117 69.9637576,3.48123007 68.7707384,2.28633501 C67.5777191,1.09143996 65.9585109,0.419997913 64.27,0.42 Z" id="Shape" fill="#ED5565"></path>
+            </g>
+        </g>
+    </g>
+</svg>

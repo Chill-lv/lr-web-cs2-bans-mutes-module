@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="48px" viewBox="0 0 70 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Paraguay@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-578.000000, -315.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Paraguay">
+            <g transform="translate(508.000000, 245.000000)">
+                <g id="netherlands-5">
+                    <g id="Mozambique-7">
+                        <g id="Equatorial_Guinea-13">
+                            <path d="M0,6.78 L0,15.78 L70,15.78 L70,6.78 C70,3.11282926 67.0271707,0.14 63.36,0.14 L6.65,0.14 C4.88723053,0.137345224 3.19575038,0.835742489 1.94834517,2.0812719 C0.700939967,3.32680131 -1.9990797e-06,5.01722853 0,6.78 Z" id="Shape" fill="#ED5565"></path>
+                            <polygon id="Shape" fill="#FFFFFF" points="0 31.48 70 31.48 70 15.81 0 15.81"></polygon>
+                            <path d="M0,40.49 C0,44.1571707 2.97282926,47.13 6.64,47.13 L63.36,47.13 C67.0271707,47.13 70,44.1571707 70,40.49 L70,31.49 L0,31.49 L0,40.49 Z" id="Shape" fill="#4A89DC"></path>
+                        </g>
+                    </g>
+                </g>
+                <circle id="Oval" stroke="#ED5565" stroke-width="2" fill="#FFFFFF" stroke-linejoin="round" cx="35.01" cy="23.63" r="5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

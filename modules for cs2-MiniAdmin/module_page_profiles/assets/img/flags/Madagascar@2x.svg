@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Madagascar@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-70.000000, -1295.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Madagascar">
+            <g transform="translate(0.000000, 1225.000000)">
+                <path d="M63.92,0.66 L6.65,0.66 C3.14136262,0.654465933 0.2910291,3.49137559 0.28,7 L0.28,24.64 L70.28,24.64 L70.28,7 C70.2689788,3.49528201 67.4247353,0.659982671 63.92,0.66 Z" id="Shape" fill="#ED5565"></path>
+                <path d="M0.28,41.3 C0.28,44.812531 3.12746899,47.66 6.64,47.66 L63.92,47.66 C67.432531,47.66 70.28,44.812531 70.28,41.3 L70.28,24.66 L0.28,24.66 L0.28,41.3 Z" id="Shape" fill="#52C162"></path>
+                <path d="M6.65,0.66 C3.14136262,0.654465933 0.2910291,3.49137559 0.28,7 L0.28,41.27 C0.28,44.782531 3.12746899,47.63 6.64,47.63 L23.28,47.63 L23.28,0.63 L6.65,0.66 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

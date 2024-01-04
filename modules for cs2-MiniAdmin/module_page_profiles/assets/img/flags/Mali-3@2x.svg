@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Mali-3@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-324.000000, -1295.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Mali-3">
+            <g transform="translate(254.000000, 1225.000000)">
+                <g id="France-8">
+                    <g id="Belgium-12">
+                        <g id="Bahamas-15">
+                            <path d="M6.51,0.66 C2.99746899,0.66 0.15,3.50746899 0.15,7.02 L0.15,41.29 C0.15,44.802531 2.99746899,47.65 6.51,47.65 L23.51,47.65 C23.51,31.9833333 23.51,16.3166667 23.51,0.65 L6.51,0.66 Z" id="Shape" fill="#57A863"></path>
+                            <path d="M23.49,0.66 C23.49,16.3266667 23.49,31.9933333 23.49,47.66 L46.84,47.66 C46.84,31.9933333 46.84,16.3266667 46.84,0.66 L23.49,0.66 Z" id="Shape" fill="#F6D660"></path>
+                            <path d="M63.78,0.66 L46.83,0.66 C46.83,16.3266667 46.83,31.9933333 46.83,47.66 L63.78,47.66 C67.292531,47.66 70.14,44.812531 70.14,41.3 L70.14,7 C70.1289788,3.49528201 67.2847353,0.659982671 63.78,0.66 Z" id="Shape" fill="#ED5565"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

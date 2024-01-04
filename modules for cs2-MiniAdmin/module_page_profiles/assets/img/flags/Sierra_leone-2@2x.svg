@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Sierra_leone-2@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-493.000000, -560.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Sierra_leone-2">
+            <g transform="translate(423.000000, 490.000000)">
+                <path d="M0.39,6.91 L0.39,15.91 L70.39,15.91 L70.39,6.91 C70.39,3.24282926 67.4171707,0.27 63.75,0.27 L7,0.27 C3.34455042,0.286515754 0.38996269,3.25451311 0.39,6.91 Z" id="Shape" fill="#57A863"></path>
+                <polygon id="Shape" fill="#FFFFFF" points="0.39 31.61 70.39 31.61 70.39 15.94 0.39 15.94"></polygon>
+                <path d="M0.39,40.62 C0.39,44.2871707 3.36282926,47.26 7.03,47.26 L63.75,47.26 C67.4171707,47.26 70.39,44.2871707 70.39,40.62 L70.39,31.62 L0.39,31.62 L0.39,40.62 Z" id="Shape" fill="#4A89DC"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>netherlands-3@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-493.000000, -192.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="netherlands-3">
+            <g transform="translate(423.000000, 122.000000)">
+                <g id="Mozambique-4">
+                    <g id="Equatorial_Guinea-9">
+                        <path d="M0.39,7.21 L0.39,16.21 L70.39,16.21 L70.39,7.21 C70.39,3.54282926 67.4171707,0.57 63.75,0.57 L7,0.57 C3.34455042,0.586515754 0.38996269,3.55451311 0.39,7.21 Z" id="Shape" fill="#ED5565"></path>
+                        <polygon id="Shape" fill="#FFFFFF" points="0.39 31.91 70.39 31.91 70.39 16.24 0.39 16.24"></polygon>
+                        <path d="M0.39,40.92 C0.39,44.5871707 3.36282926,47.56 7.03,47.56 L63.75,47.56 C67.4171707,47.56 70.39,44.5871707 70.39,40.92 L70.39,31.92 L0.39,31.92 L0.39,40.92 Z" id="Shape" fill="#4A89DC"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

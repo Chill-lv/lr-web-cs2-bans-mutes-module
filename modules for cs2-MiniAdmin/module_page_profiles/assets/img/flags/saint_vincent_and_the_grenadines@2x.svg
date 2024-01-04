@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>saint_vincent_and_the_grenadines@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-662.000000, -437.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="saint_vincent_and_the_grenadines">
+            <g transform="translate(592.000000, 367.000000)">
+                <rect id="Rounded_Rectangle_7_copy-51" fill="#FFCE54" x="0.63" y="0.71" width="70" height="47" rx="6.36"></rect>
+                <path d="M7,0.71 C3.48746899,0.71 0.64,3.55746899 0.64,7.07 L0.64,41.34 C0.64,44.852531 3.48746899,47.7 7,47.7 L20.64,47.7 L20.64,0.7 L7,0.71 Z" id="Shape" fill="#4758A9"></path>
+                <path d="M64.27,0.71 C67.782531,0.71 70.63,3.55746899 70.63,7.07 L70.63,41.34 C70.63,44.852531 67.782531,47.7 64.27,47.7 L50.63,47.7 L50.63,0.7 L64.27,0.71 Z" id="Shape" fill="#57A863"></path>
+                <polygon id="Shape" fill="#57A863" points="24.32 22.71 29.32 17.76 34.32 22.71 29.32 27.66"></polygon>
+                <polygon id="Rectangle_30_copy" fill="#57A863" points="30.68 29.07 35.68 24.12 40.68 29.07 35.68 34.02"></polygon>
+                <polygon id="Rectangle_30_copy_2" fill="#57A863" points="37 22.71 42 17.76 47 22.71 42 27.66"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

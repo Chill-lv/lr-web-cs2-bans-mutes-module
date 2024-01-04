@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Rwanda@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-831.000000, -376.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Rwanda">
+            <g transform="translate(761.000000, 306.000000)">
+                <rect id="Rounded_Rectangle_7_copy-37" fill="#3BAFDA" x="0.87" y="0.4" width="70" height="47" rx="6.36"></rect>
+                <path d="M0.87,41 C0.87,42.6867769 1.5400695,44.3044678 2.73280087,45.4971991 C3.92553224,46.6899305 5.54322312,47.36 7.23,47.36 L64.5,47.36 C66.1867769,47.36 67.8044678,46.6899305 68.9971991,45.4971991 C70.1899305,44.3044678 70.86,42.6867769 70.86,41 L70.86,38.4 L0.86,38.4 L0.87,41 Z" id="Shape" fill="#57A863"></path>
+                <circle id="Oval" fill="#FFCE54" cx="59.87" cy="12.4" r="4"></circle>
+                <rect id="Rectangle_1_copy_18-2-2" fill="#FFCE54" x="0.87" y="22.4" width="70" height="16"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

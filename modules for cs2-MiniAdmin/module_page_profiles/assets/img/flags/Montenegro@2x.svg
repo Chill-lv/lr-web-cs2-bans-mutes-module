@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="47px" viewBox="0 0 71 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Montenegro@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-747.000000, -70.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Montenegro">
+            <g transform="translate(677.000000, 0.000000)">
+                <rect id="Rounded_Rectangle_7_copy-29" fill="#FFCE54" x="0.25" y="0" width="70" height="47" rx="6.36"></rect>
+                <path d="M63.89,4 C65.191116,4.00547846 66.2445215,5.058884 66.25,6.36 L66.25,40.64 C66.2445215,41.941116 65.191116,42.9945215 63.89,43 L6.61,43 C5.308884,42.9945215 4.25547846,41.941116 4.25,40.64 L4.25,6.36 C4.25547846,5.058884 5.308884,4.00547846 6.61,4 L63.88,4" id="Shape" fill="#ED5565"></path>
+                <polygon id="Shape" fill="#FFCE54" points="42.33 19.11 41.59 14.6 44.24 14.6 42.58 12.08 41.57 11.51 37.59 11.51 36.33 19.11 34.17 19.11 32.91 11.51 28.93 11.51 27.92 12.08 26.26 14.6 28.91 14.6 28.17 19.11 24.25 19.11 30.67 35.49 39.81 35.49 46.25 19.11"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

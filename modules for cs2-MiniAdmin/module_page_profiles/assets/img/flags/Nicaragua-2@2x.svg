@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Nicaragua-2@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-662.000000, -192.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Nicaragua-2">
+            <g transform="translate(592.000000, 122.000000)">
+                <g id="netherlands-6">
+                    <g id="Mozambique-9">
+                        <g id="Equatorial_Guinea-15">
+                            <path d="M0.63,7.21 L0.63,16.21 L70.63,16.21 L70.63,7.21 C70.63,3.54282926 67.6571707,0.57 63.99,0.57 L7.27,0.57 C3.60282926,0.57 0.63,3.54282926 0.63,7.21 Z" id="Shape" fill="#4A89DC"></path>
+                            <polygon id="Shape" fill="#FFFFFF" points="0.63 31.92 70.63 31.92 70.63 16.24 0.63 16.24"></polygon>
+                            <path d="M0.63,40.93 C0.63,44.5971707 3.60282926,47.57 7.27,47.57 L64,47.57 C67.6671707,47.57 70.64,44.5971707 70.64,40.93 L70.64,31.93 L0.64,31.93 L0.63,40.93 Z" id="Shape" fill="#4A89DC"></path>
+                        </g>
+                    </g>
+                </g>
+                <circle id="Oval" stroke="#FFCE54" stroke-width="2" fill="#FFFFFF" stroke-linejoin="round" cx="35.63" cy="24.07" r="5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Namibia@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-662.000000, -131.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Namibia">
+            <g transform="translate(592.000000, 61.000000)">
+                <rect id="Rounded_Rectangle_7_copy-50" fill="#57A863" x="0.63" y="0.28" width="70" height="47" rx="6.36"></rect>
+                <path d="M65,0.33 C64.7668403,0.31726987 64.5331597,0.31726987 64.3,0.33 L7,0.33 C3.48746899,0.33 0.64,3.17746899 0.64,6.69 L0.64,40.96 L28.64,29.32 L65,0.33 Z" id="Shape" fill="#4758A9"></path>
+                <path d="M70.63,6.65 C70.624807,3.28110735 67.9934956,0.500688261 64.63,0.31 L0.63,41.03 C0.684620199,44.5034169 3.5161537,47.2904294 6.99,47.29 L7.56,47.29 L70.63,7.19 L70.63,6.65 Z" id="Shape" fill="#ED5565"></path>
+                <path d="M70.52,5.48 L5.18,47 C5.76716255,47.1767849 6.37680543,47.2677261 6.99,47.27 L10.35,47.27 L70.63,9 L70.63,6.65 C70.6294058,6.25744642 70.592583,5.8657854 70.52,5.48 Z" id="Shape" fill="#FFFFFF"></path>
+                <path d="M0.87,42.65 L66.72,0.78 C65.9408155,0.454467508 65.1044497,0.287874313 64.26,0.29 L61.9,0.29 L0.62,39.29 L0.62,40.96 C0.626949917,41.532013 0.71104171,42.1004735 0.87,42.65 Z" id="Shape" fill="#FFFFFF"></path>
+                <circle id="Oval" fill="#F6D660" cx="11.61" cy="11.28" r="4"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

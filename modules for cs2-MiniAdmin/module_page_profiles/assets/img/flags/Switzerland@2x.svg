@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Switzerland@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-747.000000, -682.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Switzerland">
+            <g transform="translate(677.000000, 612.000000)">
+                <rect id="Rounded_Rectangle_7_copy-32" fill="#ED5565" x="0.25" y="0.8" width="70" height="47" rx="6.36"></rect>
+                <path d="M45.25,20.3 L39.25,20.3 L39.25,14.3 C39.25,13.1954305 38.3545695,12.3 37.25,12.3 L33.25,12.3 C32.1454305,12.3 31.25,13.1954305 31.25,14.3 L31.25,20.3 L25.25,20.3 C24.1454305,20.3 23.25,21.1954305 23.25,22.3 L23.25,26.3 C23.25,27.4045695 24.1454305,28.3 25.25,28.3 L31.25,28.3 L31.25,34.3 C31.25,35.4045695 32.1454305,36.3 33.25,36.3 L37.25,36.3 C38.3545695,36.3 39.25,35.4045695 39.25,34.3 L39.25,28.3 L45.25,28.3 C46.3545695,28.3 47.25,27.4045695 47.25,26.3 L47.25,22.3 C47.25,21.1954305 46.3545695,20.3 45.25,20.3 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

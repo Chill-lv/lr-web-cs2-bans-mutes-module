@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Jordan-2@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-324.000000, -1050.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Jordan-2">
+            <g transform="translate(254.000000, 980.000000)">
+                <g id="Equatorial_Guinea-3">
+                    <path d="M0.15,7.17 L0.15,16.17 L70.15,16.17 L70.15,7.17 C70.15,3.50282926 67.1771707,0.53 63.51,0.53 L6.79,0.53 C5.02896251,0.53 3.34005253,1.22956942 2.09481097,2.47481097 C0.84956942,3.72005253 0.15,5.40896251 0.15,7.17 Z" id="Shape" fill="#434A54"></path>
+                    <polygon id="Shape" fill="#FFFFFF" points="0.15 31.88 70.15 31.88 70.15 16.2 0.15 16.2"></polygon>
+                    <path d="M0.15,40.89 C0.15,44.5571707 3.12282926,47.53 6.79,47.53 L63.5,47.53 C67.1671707,47.53 70.14,44.5571707 70.14,40.89 L70.14,31.89 L0.14,31.89 L0.15,40.89 Z" id="Shape" fill="#57A863"></path>
+                    <path d="M2.27,2.16 C0.915345806,3.36308 0.140117561,5.08823582 0.14,6.9 L0.14,41.17 C0.140117561,42.9817642 0.915345806,44.70692 2.27,45.91 L28.15,24 L2.27,2.16 Z" id="Shape" fill="#ED5565"></path>
+                </g>
+                <circle id="Ellipse_3_copy_2-3" fill="#FFFFFF" cx="10.68" cy="24.03" r="4"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

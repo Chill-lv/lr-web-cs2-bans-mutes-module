@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="47px" viewBox="0 0 71 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Mongolia@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-662.000000, -70.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Mongolia">
+            <g transform="translate(592.000000, 0.000000)">
+                <g id="Mali-2">
+                    <g id="France-7">
+                        <g id="Belgium-11">
+                            <g id="Bahamas-14">
+                                <path d="M7,0 C3.48746899,-2.15080493e-16 0.64,2.84746899 0.64,6.36 L0.64,40.64 C0.64,44.152531 3.48746899,47 7,47 L24,47 C24,31.3333333 24,15.6666667 24,0 L7,0 Z" id="Shape" fill="#ED5565"></path>
+                                <path d="M24,0 C24,15.6666667 24,31.3333333 24,47 L47.35,47 C47.35,31.3333333 47.35,15.6666667 47.35,0 L24,0 Z" id="Shape" fill="#4A89DC"></path>
+                                <path d="M64.27,0 L47.32,0 C47.32,15.6666667 47.32,31.3333333 47.32,47 L64.27,47 C67.782531,47 70.63,44.152531 70.63,40.64 L70.63,6.36 C70.63,2.84746899 67.782531,2.15080493e-16 64.27,0 Z" id="Shape" fill="#ED5565"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <rect id="Rectangle-path" fill="#F6BB42" x="5.3" y="19.34" width="3" height="15.35"></rect>
+                    <rect id="Rectangle_26_copy" fill="#F6BB42" x="16.3" y="19.34" width="3" height="15.35"></rect>
+                    <circle id="Oval" fill="#F6BB42" cx="12.3" cy="27" r="3"></circle>
+                    <circle id="Ellipse_13_copy" fill="#F6BB42" cx="12.3" cy="15.3" r="3"></circle>
+                    <rect id="Rectangle-path" fill="#F6BB42" x="9.3" y="31.01" width="6" height="1"></rect>
+                    <rect id="Rectangle-path" fill="#F6BB42" x="9.3" y="22.31" width="6" height="1"></rect>
+                    <polygon id="Shape" fill="#F6BB42" points="12.3 32.7 15.3 32.7 12.3 34.7 9.3 32.7"></polygon>
+                    <polygon id="Shape" fill="#F6BB42" points="12.3 19.31 15.3 19.31 12.3 21.31 9.3 19.31"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

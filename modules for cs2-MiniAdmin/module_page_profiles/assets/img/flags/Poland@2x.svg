@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>poland@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-831.000000, -315.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="poland">
+            <g transform="translate(761.000000, 245.000000)">
+                <path d="M64.51,0.12 L7.24,0.12 C3.72746899,0.12 0.88,2.96746806 0.88,6.47999791 L0.88,24.1199921 L70.88,24.1199921 L70.88,6.47999791 C70.8800021,4.79148755 70.20856,3.17227988 69.013665,1.97926103 C67.8187699,0.786242181 66.1985088,0.117345109 64.51,0.12 Z" id="Shape" fill="#FFFFFF"></path>
+                <path d="M0.87,40.75 C0.87,44.262531 3.71746899,47.11 7.23,47.11 L64.5,47.11 C68.012531,47.11 70.86,44.262531 70.86,40.75 L70.86,24.12 L0.86,24.12 L0.87,40.75 Z" id="Shape" fill="#ED5565"></path>
+            </g>
+        </g>
+    </g>
+</svg>

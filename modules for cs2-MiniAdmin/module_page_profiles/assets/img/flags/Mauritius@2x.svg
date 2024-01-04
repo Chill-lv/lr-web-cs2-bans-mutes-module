@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Mauritius@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-239.000000, -1356.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Mauritius">
+            <g transform="translate(169.000000, 1286.000000)">
+                <path d="M0.52,41.58 C0.52,45.092531 3.36746899,47.94 6.88,47.94 L64.15,47.94 C67.662531,47.94 70.51,45.092531 70.51,41.58 L70.51,36.19 L0.51,36.19 L0.52,41.58 Z" id="Shape" fill="#57A863"></path>
+                <rect id="Rectangle-path" fill="#F6D660" x="0.52" y="24.45" width="70" height="11.75"></rect>
+                <rect id="Rectangle-path" fill="#4758A9" x="0.52" y="12.7" width="70" height="11.75"></rect>
+                <path d="M64.16,0.95 L6.89,0.95 C3.37746899,0.95 0.53,3.79746899 0.53,7.31 L0.53,12.7 L70.53,12.7 L70.53,7.31 C70.5300021,5.62148908 69.85856,4.00228088 68.663665,2.80926164 C67.4687699,1.6162424 65.8485088,0.947345109 64.16,0.95 Z" id="Shape" fill="#ED5565"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>slovenia@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-747.000000, -560.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="slovenia">
+            <g transform="translate(677.000000, 490.000000)">
+                <g id="Sierra_leone">
+                    <path d="M0.25,6.88 L0.25,15.88 L70.25,15.88 L70.25,6.88 C70.25,3.21282926 67.2771707,0.24 63.61,0.24 L6.89,0.24 C3.22282926,0.24 0.25,3.21282926 0.25,6.88 Z" id="Shape" fill="#FFFFFF"></path>
+                    <polygon id="Shape" fill="#4758A9" points="0.25 31.58 70.25 31.58 70.25 15.91 0.25 15.91"></polygon>
+                    <path d="M0.25,40.59 C0.25,44.2571707 3.22282926,47.23 6.89,47.23 L63.61,47.23 C67.2771707,47.23 70.25,44.2571707 70.25,40.59 L70.25,31.59 L0.25,31.59 L0.25,40.59 Z" id="Shape" fill="#ED5565"></path>
+                    <path d="M33.39,5.07 L33.39,15.26 C33.39,23.26 24.39,26.5 24.05,26.64 C23.8377379,26.7134683 23.6146161,26.7506553 23.39,26.75 C23.1653839,26.7506553 22.9422621,26.7134683 22.73,26.64 C22.35,26.51 13.47,23.31 13.39,15.29 L13.39,5.07 L33.39,5.07 Z M17.39,7.07 L17.39,15.26 C17.39,19.48 21.71,21.83 23.39,22.59 C25.07,21.83 29.39,19.46 29.39,15.26 L29.39,7.07 L17.39,7.07 Z" id="Shape" fill="#ED5565"></path>
+                    <path d="M15.39,5.07 L15.39,15.26 C15.46,21.97 23.39,24.75 23.39,24.75 C23.39,24.75 31.39,21.97 31.39,15.26 L31.39,5.07 L15.39,5.07 Z" id="Shape" fill="#4758A9"></path>
+                    <path d="M16,18.27 C17.87,22.81 23.38,24.75 23.38,24.75 C23.38,24.75 28.92,22.81 30.77,18.29 L23.38,10.9 L16,18.27 Z" id="Shape" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Kenya@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-70.000000, -1111.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Kenya">
+            <g transform="translate(0.000000, 1041.000000)">
+                <rect id="Rounded_Rectangle_7_copy-6" fill="#57A863" x="0.28" y="0.81" width="70" height="47" rx="6.36"></rect>
+                <path d="M63.92,0.81 L6.65,0.81 C3.13746899,0.81 0.29,3.65746802 0.29,7.16999782 L0.29,23.8099921 L70.29,23.8099921 L70.29,7.16999782 C70.2900021,5.48148748 69.61856,3.86227984 68.423665,2.66926101 C67.2287699,1.47624217 65.6085088,0.80734511 63.92,0.81 Z" id="Shape" fill="#434A54"></path>
+                <rect id="Rectangle_24_copy" fill="#FFFFFF" x="0.28" y="13.81" width="70" height="22"></rect>
+                <rect id="Rectangle_24_copy_2" fill="#ED5565" x="0.28" y="15.81" width="70" height="18"></rect>
+                <path d="M33.32,6.32 C33.6981435,5.91609936 34.2267114,5.68689429 34.78,5.68689429 C35.3332886,5.68689429 35.8618565,5.91609936 36.24,6.32 C38.9,9.26 44.24,16.21 44.24,24.32 C44.24,32.43 38.86,39.37 36.24,42.32 C35.8618565,42.7239006 35.3332886,42.9531057 34.78,42.9531057 C34.2267114,42.9531057 33.6981435,42.7239006 33.32,42.32 C30.66,39.38 25.32,32.43 25.32,24.32 C25.32,16.21 30.66,9.26 33.32,6.32 Z" id="Shape" fill="#ED5565"></path>
+                <path d="M41.11,13.12 C39.44,15.22 38.28,19.66 38.28,24.82 C38.28,29.64 39.28,33.82 40.79,36.08 C42.9583511,32.5311487 44.161446,28.4771669 44.28,24.32 C44.180131,20.3797751 43.0899666,16.5280902 41.11,13.12 Z" id="Shape" fill="#434A54"></path>
+                <path d="M28.45,13.12 C26.4700334,16.5280902 25.379869,20.3797751 25.28,24.32 C25.398554,28.4771669 26.6016489,32.5311487 28.77,36.08 C30.27,33.83 31.28,29.64 31.28,24.82 C31.28,19.66 30.13,15.22 28.45,13.12 Z" id="Shape" fill="#434A54"></path>
+                <ellipse id="Ellipse_9_copy_3" fill="#FFFFFF" cx="36.28" cy="15.31" rx="1" ry="6.5"></ellipse>
+                <ellipse id="Ellipse_9_copy_4" fill="#FFFFFF" cx="33.28" cy="15.31" rx="1" ry="6.5"></ellipse>
+                <ellipse id="Ellipse_9_copy_5" fill="#FFFFFF" cx="36.28" cy="35.31" rx="1" ry="6.5"></ellipse>
+                <ellipse id="Ellipse_9_copy_5-2" fill="#FFFFFF" cx="33.28" cy="35.31" rx="1" ry="6.5"></ellipse>
+                <circle id="Oval" fill="#FFFFFF" cx="34.78" cy="25.31" r="1.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

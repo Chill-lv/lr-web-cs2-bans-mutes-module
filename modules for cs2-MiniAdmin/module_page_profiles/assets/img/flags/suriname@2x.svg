@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>suriname@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-493.000000, -682.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="suriname">
+            <g transform="translate(423.000000, 612.000000)">
+                <g id="sudan-3">
+                    <path d="M0.39,7.47 L0.39,16.47 L70.39,16.47 L70.39,7.47 C70.39,3.80282926 67.4171707,0.83 63.75,0.83 L7,0.83 C3.34455042,0.846515754 0.38996269,3.81451311 0.39,7.47 Z" id="Shape" fill="#57A863"></path>
+                    <path d="M0.39,41.19 C0.39,44.8571707 3.36282926,47.83 7.03,47.83 L63.75,47.83 C67.4171707,47.83 70.39,44.8571707 70.39,41.19 L70.39,32.19 L0.39,32.19 L0.39,41.19 Z" id="Shape" fill="#57A863"></path>
+                    <polygon id="Shape" fill="#ED5565" points="70.39 16.5 0.39 16.5 0.39 32.18 70.39 32.18"></polygon>
+                    <rect id="Rectangle-path" fill="#FFFFFF" x="0.39" y="30.54" width="70" height="3.28"></rect>
+                    <polygon id="Shape" fill="#FFFFFF" points="70.39 14.86 0.39 14.86 0.39 18.14 70.39 18.14"></polygon>
+                </g>
+                <path d="M32.67,29.09 C32.21,29.4 31.95,29.21 32.1,28.67 L32.64,26.67 C32.7676418,26.0681493 32.5877344,25.4422216 32.16,25 L30.73,23.68 C30.32,23.3 30.44,23 30.99,23 L33,23 C33.5990343,22.9631156 34.1164851,22.568115 34.31,22 L35.01,19.81 C35.18,19.28 35.46,19.28 35.64,19.81 L36.35,22.01 C36.5605896,22.5656125 37.068524,22.9533487 37.66,23.01 L39.76,23.09 C40.3,23.09 40.41,23.42 39.99,23.77 L38.35,25.13 C37.9081369,25.5479108 37.7117805,26.1634126 37.83,26.76 L38.29,28.55 C38.43,29.09 38.16,29.28 37.7,28.98 L36.03,27.87 C35.5150142,27.5653535 34.8749858,27.5653535 34.36,27.87 L32.67,29.09 Z" id="Shape" fill="#FFCE54"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="47px" viewBox="0 0 70 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Monaco@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-578.000000, -70.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Monaco">
+            <g transform="translate(508.000000, 0.000000)">
+                <path d="M63.64,-2.58264264e-12 L6.37,-2.58264264e-12 C4.68149117,-0.00265489051 3.06123007,0.666242181 1.86633501,1.85926103 C0.671439956,3.05227988 -2.08717995e-06,4.67148755 1.13686838e-13,6.35999791 L1.13686838e-13,23.9999921 L70,23.9999921 L70,6.35999791 C70,4.67322159 69.3299305,3.05553124 68.1371991,1.86280026 C66.9444678,0.670069285 65.3267769,-2.63048042e-12 63.64,-2.58264264e-12 Z" id="Shape" fill="#ED5565"></path>
+                <path d="M0,40.6399943 C-2.08717995e-06,42.3285046 0.671439956,43.9477123 1.86633501,45.1407311 C3.06123007,46.33375 4.68149117,47.002647 6.37,46.9999921 L63.64,46.9999921 C67.152531,46.9999921 70,44.1525241 70,40.6399943 L70,24 L0,24 L0,40.6399943 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

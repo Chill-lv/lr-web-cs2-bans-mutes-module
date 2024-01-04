@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Niger@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-747.000000, -192.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Niger">
+            <g transform="translate(677.000000, 122.000000)">
+                <g id="Nicaragua">
+                    <g id="netherlands">
+                        <g id="Mozambique">
+                            <g id="Equatorial_Guinea-6">
+                                <path d="M0.25,7.2 L0.25,16.2 L70.25,16.2 L70.25,7.2 C70.25,3.53282926 67.2771707,0.56 63.61,0.56 L6.89,0.56 C3.22282926,0.56 0.25,3.53282926 0.25,7.2 Z" id="Shape" fill="#FC6E51"></path>
+                                <polygon id="Shape" fill="#FFFFFF" points="0.25 31.91 70.25 31.91 70.25 16.23 0.25 16.23"></polygon>
+                                <path d="M0.25,40.92 C0.25,44.5871707 3.22282926,47.56 6.89,47.56 L63.61,47.56 C67.2771707,47.56 70.25,44.5871707 70.25,40.92 L70.25,31.92 L0.25,31.92 L0.25,40.92 Z" id="Shape" fill="#57A863"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <circle id="Oval" fill="#FC6E51" cx="35.25" cy="24.06" r="4"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

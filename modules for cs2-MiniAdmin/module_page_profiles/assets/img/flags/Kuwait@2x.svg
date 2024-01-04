@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Kuwait@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-324.000000, -1111.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Kuwait">
+            <g transform="translate(254.000000, 1041.000000)">
+                <rect id="Rectangle-path" fill="#ED5565" x="0.15" y="16.48" width="70" height="15.67"></rect>
+                <path d="M63.78,0.81 L6.51,0.81 C2.99746899,0.81 0.15,3.65746899 0.15,7.17 L0.15,16.47 L70.15,16.47 L70.15,7.17 C70.1500021,5.48148908 69.47856,3.86228088 68.283665,2.66926164 C67.0887699,1.4762424 65.4685088,0.807345109 63.78,0.81 Z" id="Shape" fill="#57A863"></path>
+                <path d="M0.15,41.45 C0.15,44.962531 2.99746899,47.81 6.51,47.81 L63.78,47.81 C67.292531,47.81 70.14,44.962531 70.14,41.45 L70.14,32.15 L0.14,32.15 L0.15,41.45 Z" id="Shape" fill="#FFFFFF"></path>
+                <path d="M29.15,16.48 L2.62,2.15 C1.06969455,3.34660998 0.158259844,5.19161949 0.15,7.15 L0.15,41.42 C0.148934063,43.089635 0.806527504,44.6922944 1.98,45.88 L29.15,32.12 L29.15,16.48 Z" id="Shape" fill="#434A54"></path>
+            </g>
+        </g>
+    </g>
+</svg>

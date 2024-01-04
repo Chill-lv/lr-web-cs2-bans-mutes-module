@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>south_africa@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-493.000000, -621.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="south_africa">
+            <g transform="translate(423.000000, 551.000000)">
+                <rect id="Rounded_Rectangle_7_copy-43" fill="#4758A9" x="0.39" y="0.55" width="70" height="47" rx="6.36"></rect>
+                <path d="M64,0.55 L6.75,0.55 C3.23746899,0.55 0.39,3.39746899 0.39,6.91 L0.39,20.55 L70.39,20.55 L70.39,6.91 C70.3900188,5.2180124 69.7158327,3.59575845 68.5166051,2.40216095 C67.3173774,1.20856345 65.6919688,0.542018926 64,0.55 Z" id="Shape" fill="#ED5565"></path>
+                <path d="M36.29,16 L8.79,0.5 L6.79,0.5 C3.27746899,0.5 0.43,3.34746899 0.43,6.86 L0.43,41.13 C0.43,44.642531 3.27746899,47.49 6.79,47.49 L8.79,47.49 L36.29,31.99 L70.38,31.99 L70.38,16 L36.29,16 Z M35,27 L4.44,44.22 C3.46805013,43.4949976 2.89683196,42.3525613 2.9,41.14 L2.9,6.91 C2.89683196,5.69743869 3.46805013,4.55500235 4.44,3.83 L35,21 L67.91,21 L67.91,27 L35,27 Z" id="Shape" fill="#FFFFFF"></path>
+                <path d="M4.46,1 C2.0046682,1.94288163 0.383008004,4.29985344 0.38,6.93 L0.38,41.2 C0.383008004,43.8301466 2.0046682,46.1871184 4.46,47.13 L35.63,29.56 L70.38,29.56 L70.38,18.56 L35.64,18.56 L4.46,1 Z" id="Shape" fill="#57A863"></path>
+                <polygon id="Shape" fill="#FFCE54" points="0.39 7.47 0.39 10.49 24.41 24.05 0.39 37.61 0.39 40.63 29.41 24.05"></polygon>
+                <polygon id="Shape" fill="#434A54" points="24.41 24.05 0.39 10.49 0.39 24.05 0.39 37.61"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

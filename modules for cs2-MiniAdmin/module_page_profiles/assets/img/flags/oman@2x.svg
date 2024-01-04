@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="48px" viewBox="0 0 70 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>oman@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-578.000000, -253.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="oman">
+            <g transform="translate(508.000000, 183.000000)">
+                <g id="netherlands-4">
+                    <g id="Mozambique-6">
+                        <g id="Equatorial_Guinea-12">
+                            <path d="M0,7.49 L0,16.49 L70,16.49 L70,7.49 C70,3.82282926 67.0271707,0.85 63.36,0.85 L6.65,0.85 C4.88723053,0.847345224 3.19575038,1.54574249 1.94834517,2.7912719 C0.700939967,4.03680131 -1.9990797e-06,5.72722853 0,7.49 Z" id="Shape" fill="#FFFFFF"></path>
+                            <polygon id="Shape" fill="#ED5565" points="0 32.2 70 32.2 70 16.52 0 16.52"></polygon>
+                            <path d="M0,41.21 C0,44.8771707 2.97282926,47.85 6.64,47.85 L63.36,47.85 C67.0271707,47.85 70,44.8771707 70,41.21 L70,32.21 L0,32.21 L0,41.21 Z" id="Shape" fill="#57A863"></path>
+                        </g>
+                    </g>
+                </g>
+                <path d="M6.37,0.85 C2.85746899,0.85 0.01,3.69746899 0.01,7.21 L0.01,41.48 C0.01,44.992531 2.85746899,47.84 6.37,47.84 L18,47.84 L18,0.84 L6.37,0.85 Z" id="Shape" fill="#ED5565"></path>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="6.51" y="7.35" width="5" height="5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

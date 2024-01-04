@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>qatar@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-578.000000, -376.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="qatar">
+            <g transform="translate(508.000000, 306.000000)">
+                <rect id="Rounded_Rectangle_7_copy-45" fill="#A54577" x="0.01" y="0.42" width="70" height="47" rx="6.36"></rect>
+                <path d="M18.15,10.18 L23,5.6 L18,0.89 L18,0.42 L6.37,0.42 C2.85746899,0.42 0.01,3.26746899 0.01,6.78 L0.01,41.05 C0.01,44.562531 2.85746899,47.41 6.37,47.41 L18,47.41 L18,46.94 L23,42.23 L18.14,37.65 L23,33.07 L18.14,28.49 L23,23.91 L18.14,19.33 L23,14.75 L18.15,10.18 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

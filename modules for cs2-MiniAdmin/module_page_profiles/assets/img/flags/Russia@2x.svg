@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Russia@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-747.000000, -376.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Russia">
+            <g transform="translate(677.000000, 306.000000)">
+                <path d="M0.25,7 L0.25,16 L70.25,16 L70.25,7 C70.25,3.33282926 67.2771707,0.36 63.61,0.36 L6.89,0.36 C3.22282926,0.36 0.25,3.33282926 0.25,7 Z" id="Shape" fill="#FFFFFF"></path>
+                <polygon id="Shape" fill="#4A89DC" points="0.25 31.74 70.25 31.74 70.25 16.07 0.25 16.07"></polygon>
+                <path d="M0.25,40.76 C0.25,44.4271707 3.22282926,47.4 6.89,47.4 L63.61,47.4 C67.2771707,47.4 70.25,44.4271707 70.25,40.76 L70.25,31.76 L0.25,31.76 L0.25,40.76 Z" id="Shape" fill="#ED5565"></path>
+            </g>
+        </g>
+    </g>
+</svg>

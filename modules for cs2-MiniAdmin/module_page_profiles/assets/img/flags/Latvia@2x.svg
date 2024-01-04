@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Latvia@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-154.000000, -1173.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Latvia">
+            <g transform="translate(84.000000, 1103.000000)">
+                <path d="M64.54,0.1 L7.27,0.1 C3.75746899,0.1 0.91,2.94746899 0.91,6.46 L0.91,40.73 C0.91,44.242531 3.75746899,47.09 7.27,47.09 L64.54,47.09 C68.052531,47.09 70.9,44.242531 70.9,40.73 L70.9,6.46 C70.9,2.94746899 68.052531,0.1 64.54,0.1 Z" id="Shape" fill="#B42B39"></path>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="0.9" y="18.81" width="70" height="9.56"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

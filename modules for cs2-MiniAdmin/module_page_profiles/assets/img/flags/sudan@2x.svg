@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>sudan@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-831.000000, -621.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="sudan">
+            <g transform="translate(761.000000, 551.000000)">
+                <path d="M0.87,7.16 L0.87,16.16 L70.87,16.16 L70.87,7.16 C70.87,3.49282926 67.8971707,0.52 64.23,0.52 L7.51,0.52 C3.84282926,0.52 0.87,3.49282926 0.87,7.16 Z" id="Shape" fill="#ED5565"></path>
+                <polygon id="Shape" fill="#FFFFFF" points="0.87 31.86 70.87 31.86 70.87 16.19 0.87 16.19"></polygon>
+                <path d="M0.87,40.87 C0.87,44.5371707 3.84282926,47.51 7.51,47.51 L64.23,47.51 C67.8971707,47.51 70.87,44.5371707 70.87,40.87 L70.87,31.87 L0.87,31.87 L0.87,40.87 Z" id="Shape" fill="#434A54"></path>
+                <path d="M3.09,2.21 C1.67685551,3.46710561 0.868900322,5.26862731 0.87,7.16 L0.87,40.88 C0.868900322,42.7713727 1.67685551,44.5728944 3.09,45.83 L33.87,24 L3.09,2.21 Z" id="Shape" fill="#57A863"></path>
+            </g>
+        </g>
+    </g>
+</svg>

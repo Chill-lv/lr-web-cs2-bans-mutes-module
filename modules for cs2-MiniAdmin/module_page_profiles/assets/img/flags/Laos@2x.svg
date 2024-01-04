@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Laos@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-70.000000, -1173.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Laos">
+            <g transform="translate(0.000000, 1103.000000)">
+                <g id="Hungary">
+                    <g id="Bolivia-5">
+                        <path d="M0.28,6.74 L0.28,15.74 L70.28,15.74 L70.28,6.74 C70.28,3.07282926 67.3071707,0.1 63.64,0.1 L6.93,0.1 C5.16723053,0.0973452237 3.47575038,0.795742489 2.22834517,2.0412719 C0.980939967,3.28680131 0.279998001,4.97722853 0.28,6.74 Z" id="Shape" fill="#ED5565"></path>
+                        <polygon id="Shape" fill="#4758A9" points="0.28 31.44 70.28 31.44 70.28 15.77 0.28 15.77"></polygon>
+                        <path d="M0.28,40.45 C0.28,42.2110375 0.97956942,43.8999475 2.22481097,45.145189 C3.47005253,46.3904306 5.15896251,47.09 6.92,47.09 L63.64,47.09 C67.3071707,47.09 70.28,44.1171707 70.28,40.45 L70.28,31.45 L0.28,31.45 L0.28,40.45 Z" id="Shape" fill="#ED5565"></path>
+                    </g>
+                </g>
+                <circle id="Ellipse_3_copy_2" fill="#FFFFFF" cx="35.28" cy="23.6" r="4"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

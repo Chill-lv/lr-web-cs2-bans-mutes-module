@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Lesotho@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-324.000000, -1173.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Lesotho">
+            <g transform="translate(254.000000, 1103.000000)">
+                <g id="Jordan-3">
+                    <g id="Equatorial_Guinea-4">
+                        <path d="M0.15,6.74 L0.15,15.74 L70.15,15.74 L70.15,6.74 C70.15,3.07282926 67.1771707,0.1 63.51,0.1 L6.79,0.1 C5.02896251,0.1 3.34005253,0.79956942 2.09481097,2.04481097 C0.84956942,3.29005253 0.15,4.97896251 0.15,6.74 Z" id="Shape" fill="#4758A9"></path>
+                        <polygon id="Shape" fill="#FFFFFF" points="0.15 31.44 70.15 31.44 70.15 15.77 0.15 15.77"></polygon>
+                        <path d="M0.15,40.45 C0.15,42.2110375 0.84956942,43.8999475 2.09481097,45.145189 C3.34005253,46.3904306 5.02896251,47.09 6.79,47.09 L63.5,47.09 C65.2610375,47.09 66.9499475,46.3904306 68.195189,45.145189 C69.4404306,43.8999475 70.14,42.2110375 70.14,40.45 L70.14,31.45 L0.14,31.45 L0.15,40.45 Z" id="Shape" fill="#57A863"></path>
+                    </g>
+                </g>
+                <polygon id="Shape" fill="#434A54" points="28.65 27.6 35.29 19.6 35.29 19.6 41.65 27.6"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

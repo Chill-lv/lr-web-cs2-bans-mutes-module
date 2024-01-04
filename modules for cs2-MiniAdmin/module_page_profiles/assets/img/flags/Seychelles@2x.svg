@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Seychelles@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-831.000000, -498.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Seychelles">
+            <g transform="translate(761.000000, 428.000000)">
+                <path d="M3.88,47 L4.39,46.88 L70.86,16.27 L70.86,7.33 C70.86,3.81746899 68.012531,0.97 64.5,0.97 L46.6,0.97 L2.28,45.59 C2.73058418,46.1463086 3.27144843,46.6229452 3.88,47 Z" id="Shape" fill="#ED5565"></path>
+                <path d="M7.24,1 C3.72746899,1 0.88,3.84746899 0.88,7.36 L0.88,41.63 C0.879560936,42.5448677 1.07743754,43.4489591 1.46,44.28 L24.15,1 L7.24,1 Z" id="Shape" fill="#4758A9"></path>
+                <path d="M25.1,1 L24.15,1 L1.45,44.28 C1.58977502,44.5858448 1.75362365,44.8801036 1.94,45.16 C2.05,45.32 2.16,45.47 2.28,45.62 L46.6,1 L25.1,1 Z" id="Shape" fill="#FFCE54"></path>
+                <polygon id="Shape" fill="#FFFFFF" points="70.87 30.89 70.87 16.26 4.4 46.87"></polygon>
+                <path d="M4.4,46.87 L3.99,47.06 C4.97182054,47.6488276 6.09514653,47.9599025 7.24,47.96 L64.51,47.96 C68.022531,47.96 70.87,45.112531 70.87,41.6 L70.87,30.9 L4.4,46.87 Z" id="Shape" fill="#57A863"></path>
+            </g>
+        </g>
+    </g>
+</svg>

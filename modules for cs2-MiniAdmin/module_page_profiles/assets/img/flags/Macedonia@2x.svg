@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Macedonia@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-408.000000, -1234.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Macedonia">
+            <g transform="translate(338.000000, 1164.000000)">
+                <rect id="Rounded_Rectangle_7_copy-28" fill="#ED5565" x="0.77" y="0.38" width="70" height="47" rx="6.36"></rect>
+                <g id="Group">
+                    <polygon id="Shape" fill="#FFCE54" points="40.37 0.38 31.16 0.38 35.77 20.13"></polygon>
+                    <polygon id="Shape" fill="#FFCE54" points="31.16 47.38 40.37 47.38 35.77 27.63"></polygon>
+                    <polygon id="Shape" fill="#FFCE54" points="70.77 27.38 70.77 20.38 35.77 23.88"></polygon>
+                    <polygon id="Shape" fill="#FFCE54" points="0.77 20.38 0.77 27.38 35.77 23.88"></polygon>
+                    <path d="M67.42,46.62 C69.3679771,45.5687299 70.629242,43.5802492 70.75,41.37 L35.75,23.88 L0.75,41.37 C0.870757951,43.5802492 2.13202286,45.5687299 4.08,46.62 L35.73,24.82 L67.42,46.62 Z" id="Shape" fill="#FFCE54"></path>
+                    <path d="M70.75,6.39 C70.629242,4.17975084 69.3679771,2.19127013 67.42,1.14 L35.77,22.94 L4.12,1.14 C2.17202286,2.19127013 0.910757951,4.17975084 0.79,6.39 L35.79,23.88 L70.75,6.39 Z" id="Shape" fill="#FFCE54"></path>
+                    <path d="M35.77,35.83 C29.1701972,35.83 23.82,30.4798028 23.82,23.88 C23.82,17.2801972 29.1701972,11.93 35.77,11.93 C42.3698028,11.93 47.72,17.2801972 47.72,23.88 C47.692605,30.468422 42.358422,35.802605 35.77,35.83 Z M35.77,18.94 C33.7679119,18.94 31.9629623,20.1460288 31.1967963,21.995717 C30.4306304,23.8454052 30.8541314,25.9744885 32.2698214,27.3901786 C33.6855115,28.8058686 35.8145948,29.2293696 37.664283,28.4632037 C39.5139712,27.6970377 40.72,25.8920881 40.72,23.89 C40.6983235,21.1635868 38.4963639,18.9571788 35.77,18.93 L35.77,18.94 Z" id="Shape" fill="#ED5565"></path>
+                    <circle id="Oval" fill="#FFCE54" cx="35.77" cy="23.88" r="8.45"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Nigeria@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-831.000000, -192.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Nigeria">
+            <g transform="translate(761.000000, 122.000000)">
+                <g id="Mali">
+                    <g id="France-6">
+                        <g id="Belgium-10">
+                            <g id="Bahamas-13">
+                                <path d="M7.24,0.56 C3.72746899,0.56 0.88,3.40746899 0.88,6.92 L0.88,41.2 C0.88,44.712531 3.72746899,47.56 7.24,47.56 L24.24,47.56 C24.24,31.8933333 24.24,16.2266667 24.24,0.56 L7.24,0.56 Z" id="Shape" fill="#57A863"></path>
+                                <path d="M24.21,0.56 C24.21,16.2266667 24.21,31.8933333 24.21,47.56 L47.56,47.56 C47.56,31.8933333 47.56,16.2266667 47.56,0.56 L24.21,0.56 Z" id="Shape" fill="#FFFFFF"></path>
+                                <path d="M64.51,0.56 L47.56,0.56 C47.56,16.2266667 47.56,31.8933333 47.56,47.56 L64.51,47.56 C68.022531,47.56 70.87,44.712531 70.87,41.2 L70.87,6.92 C70.87,3.40746899 68.022531,0.56 64.51,0.56 Z" id="Shape" fill="#57A863"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

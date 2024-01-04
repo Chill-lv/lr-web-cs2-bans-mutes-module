@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Portugal@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-493.000000, -376.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Portugal">
+            <g transform="translate(423.000000, 306.000000)">
+                <path d="M6.75,0.42 C3.23746899,0.42 0.39,3.26746899 0.39,6.78 L0.39,41.05 C0.39,44.562531 3.23746899,47.41 6.75,47.41 L28.5,47.41 L28.5,0.41 L6.75,0.42 Z" id="Shape" fill="#57A863"></path>
+                <path d="M70.39,41.05 L70.39,6.78 C70.39,3.26746899 67.542531,0.42 64.03,0.42 L28.5,0.42 L28.5,47.4200709 L64,47.42 C65.6937032,47.4279914 67.3206346,46.760077 68.5201527,45.5643133 C69.7196708,44.3685496 70.3926819,42.7437199 70.39,41.05 Z" id="Shape" fill="#ED5565"></path>
+                <circle id="Oval" fill="#FFCE54" cx="28.5" cy="23.92" r="11.43"></circle>
+                <path d="M34.42,18.16 L22.57,18.16 L22.57,25.52 C22.5229172,28.5469185 24.7098399,31.1473529 27.7,31.62 C29.3933539,31.8443103 31.1013155,31.3287791 32.3877746,30.2050417 C33.6742336,29.0813044 34.4146624,27.4581376 34.42,25.75 L34.42,18.17 L34.42,18.16 Z" id="Shape" fill="#ED5565"></path>
+                <path d="M31.89,20.7 L31.89,25.7 C31.89,27.5722453 30.3722453,29.09 28.5,29.09 C26.6277547,29.09 25.11,27.5722453 25.11,25.7 L25.11,20.7 L31.89,20.7" id="Shape" fill="#FFFFFF"></path>
+                <circle id="Oval" fill="#4758A9" cx="28.5" cy="22.81" r="1"></circle>
+                <circle id="Oval" fill="#4758A9" cx="28.5" cy="27.02" r="1"></circle>
+                <circle id="Oval" fill="#4758A9" cx="28.5" cy="24.92" r="1"></circle>
+                <circle id="Oval" fill="#4758A9" cx="26.4" cy="24.91" r="1"></circle>
+                <circle id="Oval" fill="#4758A9" cx="30.6" cy="24.92" r="1"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

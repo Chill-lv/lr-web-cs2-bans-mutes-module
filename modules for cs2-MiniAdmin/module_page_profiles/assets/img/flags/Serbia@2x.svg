@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Serbia@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-747.000000, -498.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Serbia">
+            <g transform="translate(677.000000, 428.000000)">
+                <path d="M0.25,7.6 L0.25,16.6 L70.25,16.6 L70.25,7.6 C70.25,3.93282926 67.2771707,0.96 63.61,0.96 L6.89,0.96 C3.22282926,0.96 0.25,3.93282926 0.25,7.6 Z" id="Shape" fill="#ED5565"></path>
+                <polygon id="Shape" fill="#4758A9" points="0.25 32.3 70.25 32.3 70.25 16.63 0.25 16.63"></polygon>
+                <path d="M0.25,41.31 C0.25,44.9771707 3.22282926,47.95 6.89,47.95 L63.61,47.95 C67.2771707,47.95 70.25,44.9771707 70.25,41.31 L70.25,32.31 L0.25,32.31 L0.25,41.31 Z" id="Shape" fill="#FFFFFF"></path>
+                <polygon id="Shape" fill="#FFCE54" points="26.33 18.56 25.59 14.06 28.24 14.06 26.58 11.54 25.58 10.96 21.59 10.96 20.34 18.56 18.17 18.56 16.91 10.96 12.93 10.96 11.92 11.54 10.26 14.06 12.92 14.06 12.18 18.56 8.25 18.56 14.67 34.95 23.82 34.95 30.26 18.56"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
