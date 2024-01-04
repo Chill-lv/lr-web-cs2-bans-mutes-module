@@ -1,0 +1,779 @@
+{
+    "_Info": {
+        "EN": "Info",
+        "RU": "Информация",
+        "UA": "Інформація",
+        "DE": "Information"
+    },
+    "_Stats": {
+        "EN": "Stats",
+        "RU": "Статистика",
+        "UA": "Статистика",
+        "DE": "Statistiken"
+    },
+    "_Admin": {
+        "EN": "Admin",
+        "RU": "Администратор",
+        "UA": "Адміністратор",
+        "DE": "Administrator"
+    },
+    "_Block": {
+        "EN": "Bans/Mutes",
+        "RU": "Блокировки",
+        "UA": "Блокування",
+        "DE": "Schlösser"
+    },
+    "_Friends": {
+        "EN": "Friends",
+        "RU": "Друзья",
+        "UA": "Друзі",
+        "DE": "Freunde"
+    },
+    "_Inventory": {
+        "EN": "Inventory",
+        "RU": "Инвентарь",
+        "UA": "",
+        "DE": ""
+    },
+    "_Settings": {
+        "EN": "Settings",
+        "RU": "Настройки",
+        "UA": "Інвентар",
+        "DE": "Inventar"
+    },
+    "_Transaction": {
+        "EN": "Transaction",
+        "RU": "Транзакции",
+        "UA": "Транзакції",
+        "DE": "Transaktionen"
+    },
+    "_Informations": {
+        "EN": "Informations",
+        "RU": "Информация",
+        "UA": "Інформація",
+        "DE": "Information"
+    },
+    "_Information_player": {
+        "EN": "Player info",
+        "RU": "Информация об игроке",
+        "UA": "Інформація про гравця",
+        "DE": "Spielerinformationen"
+    },
+    "_GamungPrivilegies": {
+        "EN": "Gaming privileges",
+        "RU": "Игровые привилегии",
+        "UA": "Ігрові привілеї",
+        "DE": "Spielprivilegien"
+    },
+    "_NickName": {
+        "EN": "Faceit Nickname",
+        "RU": "Псевдоним Faceit",
+        "UA": "Псевдонім Faceit",
+        "DE": "Faceit-Alias"
+    },
+    "_Indicators": {
+        "EN": "Faceit ELO",
+        "RU": "FACEIT ELO",
+        "UA": "FACEIT ELO",
+        "DE": "FACEIT ELO"
+    },
+    "_FaceitLevel": {
+        "EN": "Faceit level",
+        "RU": "Уровень FACEIT",
+        "UA": "Рівень FACEIT",
+        "DE": "FACEIT-Ebene"
+    },
+    "_No_Account": {
+        "EN": "No Account",
+        "RU": "Нет аккаунта",
+        "UA": "Немає облікового запису",
+        "DE": "Kein Account"
+    },
+    "_Faceit_lvl": {
+        "EN": "LVL",
+        "RU": "Уровень",
+        "UA": "Рівень",
+        "DE": "Eben"
+    },
+    "_Faceit_matches": {
+        "EN": "Total matches",
+        "RU": "Всего матчей",
+        "UA": "Усього матчів",
+        "DE": "Gesamtübereinstimmungen"
+    },
+    "_Faceit_played": {
+        "EN": "played",
+        "RU": "сыграно",
+        "UA": "зіграно",
+        "DE": "gespielt"
+    },
+    "_Faceit_Win_chance": {
+        "EN": "Win chance",
+        "RU": "Шанс побед",
+        "UA": "Шанс перемог",
+        "DE": "Gewinnchance"
+    },
+    "_IP_address": {
+        "EN": "IP address",
+        "RU": "IP адрес",
+        "UA": "IP адреса",
+        "DE": "IP Adresse"
+    },
+    "_Unknown": {
+        "EN": "Unknown",
+        "RU": "Неизвестно",
+        "UA": "Невідомо",
+        "DE": "Unbekannt"
+    },
+    "_steamID64": {
+        "EN": "SteamID64",
+        "RU": "SteamID64",
+        "UA": "SteamID64",
+        "DE": "SteamID64"
+    },
+    "_steamID32": {
+        "EN": "SteamID32",
+        "RU": "SteamID32",
+        "UA": "SteamID32",
+        "DE": "SteamID32"
+    },
+    "_steamID3": {
+        "EN": "SteamID3",
+        "RU": "SteamID3",
+        "UA": "SteamID3",
+        "DE": "SteamID3"
+    },
+    "_Country": {
+        "EN": "Сountry",
+        "RU": "Страна",
+        "UA": "Країна",
+        "DE": "Land"
+    },
+    "_City": {
+        "EN": "City",
+        "RU": "Город",
+        "UA": "Місто",
+        "DE": "Stadt"
+    },
+    "_Bans_Count": {
+        "EN": "Bans",
+        "RU": "Банов",
+        "UA": "Банів",
+        "DE": "Banov"
+    },
+    "_Comms_Count": {
+        "EN": "Mutes",
+        "RU": "Мутов",
+        "UA": "Мутов",
+        "DE": "Mutov"
+    },
+    "_Not_available": {
+        "EN": "Not available",
+        "RU": "Не имеется",
+        "UA": "НЕ мається",
+        "DE": "Nicht verfügbar"
+    },
+    "_Available": {
+        "EN": "Available",
+        "RU": "Имеется",
+        "UA": "Є",
+        "DE": "Erhältlich"
+    },
+    "_AmountCourse": {
+        "EN": "&#8364;",
+        "RU": "&#8381;",
+        "UA": "&#8372;",
+        "LT": "&#8364;"
+    },
+    "_Expired": {
+        "EN": "Expired",
+        "RU": "Срок истёк",
+        "UA": "Термін вийшов",
+        "DE": "Abgelaufen"
+    },
+    "_Vip_permission": {
+        "EN": "VIP",
+        "RU": "VIP",
+        "UA": "VIP",
+        "DE": "VIP"
+    },
+    "_Admin_permission": {
+        "EN": "Admin",
+        "RU": "Админ",
+        "UA": "Адмін",
+        "DE": "Admin"
+    },
+    "_pcs": {
+        "EN": " pcs",
+        "RU": " шт.",
+        "UA": " шт.",
+        "DE": " PC."
+    },
+    "_Favorite_weapons": {
+        "EN": "Weapon kills",
+        "RU": "Убийств с оружия",
+        "UA": "Вбивств зі зброї",
+        "DE": "Waffe tötet"
+    },
+    "_Weapons": {
+        "EN": "Weapons:",
+        "RU": "Список оружий:",
+        "UA": "Список зброї:",
+        "DE": "Liste der Waffen:"
+    },
+    "_Kill_count": {
+        "EN": "Kills",
+        "RU": "Убийств",
+        "UA": "Вбивств",
+        "DE": "tötet"
+    },
+    "_Deaths": {
+        "EN": "Deaths",
+        "RU": "Смертей",
+        "UA": "Смерть",
+        "DE": "Todesfälle"
+    },
+    "_Rank": {
+        "EN": "Rank",
+        "RU": "Звание",
+        "UA": "Звання",
+        "DE": "Rang"
+    },
+    "_Exp": {
+        "EN": "Exp",
+        "RU": "Опыт",
+        "UA": "Досвід",
+        "DE": "Erfahrung"
+    },
+    "_Top_players": {
+        "EN": "Top position",
+        "RU": "Позиция в топе",
+        "UA": "Позиція в топі",
+        "DE": "Spitzenposition"
+    },
+    "_Top_place": {
+        "EN": "place",
+        "RU": "место",
+        "UA": "місце",
+        "DE": "Platz"
+    },
+    "_Ratio_KD": {
+        "EN": "K/D",
+        "RU": "К/Д",
+        "UA": "К/Д",
+        "DE": "K/D"
+    },
+    "_Favorite_Map": {
+        "EN": "Favorite Map",
+        "RU": "Любимая карта",
+        "UA": "Улюблена карта",
+        "DE": "Lieblingskarte"
+    },
+    "_Maps_played": {
+        "EN": "Maps Played",
+        "RU": "Сыграно карт",
+        "UA": "Зіграно карт",
+        "DE": "Karten gespielt"
+    },
+    "_Wins": {
+        "EN": "Wins",
+        "RU": "Побед ",
+        "UA": "Перемог",
+        "DE": "Siege"
+    },
+    "_Loss": {
+        "EN": "Loss",
+        "RU": "Поражений ",
+        "UA": "Поразок",
+        "DE": "Niederlagen"
+    },
+    "_Total_winning_percentage": {
+        "EN": "Winnings Percentage",
+        "RU": "Общий процент побед",
+        "UA": "Загальний відсоток перемог",
+        "DE": "Gesamtgewinnprozentsatz"
+    },
+    "_Time_Played": {
+        "EN": "Time Played",
+        "RU": "Время игры",
+        "UA": "Час гри",
+        "DE": "Spielzeit"
+    },
+    "_Assists": {
+        "EN": "Assists",
+        "RU": "Ассистов",
+        "UA": "Асистів",
+        "DE": "Assists"
+    },
+    "_Rounds": {
+        "EN": "Play rounds",
+        "RU": "Сыграно раундов",
+        "UA": "Зіграно раундів",
+        "DE": "Runden gespielt"
+    },
+    "_PlayMatches": {
+        "EN": "Play matches",
+        "RU": "Сыграно матчей",
+        "UA": "Зіграно матчів",
+        "DE": "Spiele gespielt"
+    },
+    "_CountMatches": {
+        "EN": "matches",
+        "RU": "матчей",
+        "UA": "матчів",
+        "DE": "Streichhölzer"
+    },
+    "_Ratio_SH": {
+        "EN": "Accuracy",
+        "RU": "Точность",
+        "UA": "Точність",
+        "DE": "Genauigkeit"
+    },
+    "_Shoots": {
+        "EN": "Shots",
+        "RU": "Выстрелов",
+        "UA": "Пострілів",
+        "DE": "Schüsse"
+    },
+    "_Hits": {
+        "EN": "Hits",
+        "RU": "Попаданий",
+        "UA": "Попадань",
+        "DE": "trifft"
+    },
+    "_First_round_kills": {
+        "EN": "First Blood",
+        "RU": "Первых убийств",
+        "UA": "Перших вбивств",
+        "DE": "Erste Kills"
+    },
+    "_Penetrated_kills": {
+        "EN": "Penetrated Kills",
+        "RU": "Убийств прострелом",
+        "UA": "Вбивств прострілом",
+        "DE": "Kreuzfeuer-Kills"
+    },
+    "_Killing_without_scope": {
+        "EN": "No-Scope Kills",
+        "RU": "Убийств без прицела",
+        "UA": "Вбивств без прицілу",
+        "DE": "Kills ohne Zielfernrohr"
+    },
+    "_Kills_on_run": {
+        "EN": "While Running Kills",
+        "RU": "Убийств на бегу",
+        "UA": "Вбивств на бігу",
+        "DE": "Tötet auf der Flucht"
+    },
+    "_Kills_flash": {
+        "EN": "While Flashed Kills",
+        "RU": "Убийств слепым",
+        "UA": "Вбивств сліпим",
+        "DE": "Tötet den Blinden"
+    },
+    "_Jump_kills": {
+        "EN": "Jump Kills",
+        "RU": "Убийств в прыжке",
+        "UA": "Вбивств у стрибку",
+        "DE": "Sprung-Kills"
+    },
+    "_Smoke_kills": {
+        "EN": "Smoke Kills",
+        "RU": "Убийств в дым",
+        "UA": "Вбивств у дим",
+        "DE": "Tötet im Rauch"
+    },
+    "_Kills_whirl": {
+
+        "EN": "180-360° Kills",
+        "RU": "Убийств с разворота",
+        "UA": "Вбивств з розвороту",
+        "DE": "Roundhouse-Kills"
+    },
+    "_Kills_last_shoot": {
+        "EN": "Last Clip Kills",
+        "RU": "Убийств ласт патроном",
+        "UA": "Вбивств ласт патроном",
+        "DE": "Tötet mit Flossen"
+    },
+    "_ADMINISTRATOR_INFORMATION": {
+        "EN": "Administrator information",
+        "RU": "Информация об администраторе",
+        "UA": "Інформація про адміністратора",
+        "DE": "Administratorinformationen"
+    },
+    "_Admin_Group": {
+        "EN": "Group",
+        "RU": "Роль",
+        "UA": "Роль",
+        "DE": "Rolle"
+    },
+    "_Admin_Access": {
+        "EN": "Access",
+        "RU": "Срок",
+        "UA": "Термін",
+        "DE": "Begriff"
+    },
+    "_Admin_Immunity": {
+        "EN": "Immunity",
+        "RU": "Иммунитет",
+        "UA": "Імунітет",
+        "DE": "Immunität"
+    },
+    "_Admin_Warns": {
+        "EN": "Warns",
+        "RU": "Выговоров",
+        "UA": "Доган",
+        "DE": "tadelt"
+    },
+    "_Online_for_yesterday": {
+        "EN": "Online for yesterday",
+        "RU": "Онлайн за вчера",
+        "UA": "Онлайн за вчора",
+        "DE": "Online für gestern"
+    },
+    "_Online_for_today": {
+        "EN": "Online for today",
+        "RU": "Онлайн за сегодня",
+        "UA": "Онлайн за сьогодні",
+        "DE": "Für heute online"
+    },
+    "_past_term": {
+        "EN": "Past term",
+        "RU": "Прошлый срок",
+        "UA": "Минулий термін",
+        "DE": "vergangene Amtszeit"
+    },
+    "_current_term": {
+        "EN": "Current term",
+        "RU": "Текущий срок",
+        "UA": "Поточний термін",
+        "DE": "aktuelle Amtszeit"
+    },
+    "_Vkontakte": {
+        "EN": "Vkontakte",
+        "RU": "Вконтакте",
+        "UA": "Вконтакте",
+        "DE": "Vkontakte"
+    },
+    "_Not_specified": {
+        "EN": "Not specified",
+        "RU": "Не указан",
+        "UA": "Не вказано",
+        "DE": "Nicht angegeben"
+    },
+    "_Dislike": {
+        "EN": "Dislike",
+        "RU": "Не нравится",
+        "UA": "Не подобається",
+        "DE": "Gefällt mir nicht"
+    },
+    "_Like": {
+        "EN": "Like",
+        "RU": "Нравится",
+        "UA": "Подобається",
+        "DE": "Gefällt"
+    },
+    "_Last_connect": {
+        "EN": "Last Connect",
+        "RU": "Последняя игра",
+        "UA": "остання гра",
+        "DE": "Letztes Spiel"
+    },
+    "_Time": {
+        "EN": "Time",
+        "RU": "Время",
+        "UA": "Час",
+        "DE": "Zeit"
+    },
+    "_Forever": {
+        "EN": "Permanent",
+        "RU": "Навсегда"
+    },
+    "_Never": {
+        "EN": "Never",
+        "RU": "Никогда"
+    },
+    "_Online_stats": {
+        "EN": "Online stats",
+        "RU": "Статистика онлайна",
+        "UA": "Статистика онлайн",
+        "DE": "Online-Statistiken"
+    },
+    "_Bans": {
+        "EN": "Latest bans",
+        "RU": "Последние баны",
+        "UA": "Останні бани",
+        "DE": "Neueste Verbote"
+    },
+    "_Bans_Data": {
+        "EN": "Date",
+        "RU": "Дата",
+        "UA": "Дата",
+        "DE": "Datum von"
+    },
+    "_Bans_Reason": {
+        "EN": "Reason",
+        "RU": "Причина",
+        "UA": "Причина",
+        "DE": "Ursache"
+    },
+    "_Bans_Admin": {
+        "EN": "Admin",
+        "RU": "Админ",
+        "UA": "Адмін",
+        "DE": "Administrator"
+    },
+    "_Bans_Length": {
+        "EN": "Length",
+        "RU": "Срок",
+        "UA": "Термін",
+        "DE": "Begriff"
+    },
+    "_Bans_No_Bans": {
+        "EN": "No Bans",
+        "RU": "Нет банов",
+        "UA": "Немає банів",
+        "DE": "Keine Verbote"
+    },
+    "_Comms": {
+        "EN": "Latest commbans",
+        "RU": "Последние муты",
+        "UA": "Останні каламутні",
+        "DE": "Letzte Stummschaltungen"
+    },
+    "_Comms_Type": {
+        "EN": "Type",
+        "RU": "Тип",
+        "UA": "Тип",
+        "DE": "Art"
+    },
+    "_Comms_No_Mute": {
+        "EN": "No Mutes",
+        "RU": "Нет мутов",
+        "UA": "Немає каламут",
+        "DE": "Keine Stummschaltungen"
+    },
+    "_Expiration": {
+        "EN": "Expires In",
+        "RU": "Будет снят",
+        "UA": "Буде знятий",
+        "DE": "Wird entfernt"
+    },
+    "_Withdrawn": {
+        "EN": "Withdrawn",
+        "RU": "Cнят",
+        "UA": "Знято",
+        "DE": "Gefilmt"
+    },
+    "_FRIENDS_LIST": {
+        "EN": "Friend list",
+        "RU": "Списко друзей",
+        "UA": "Список друзів",
+        "DE": "Freundesliste"
+    },
+    "_Steam_friends_list_is_empty_or_hidden": {
+        "EN": "Steam friends list is empty or hidden",
+        "RU": "Список друзей Steam пуст или скрыт",
+        "UA": "Список друзів Steam порожній або прихований",
+        "DE": "Die Steam-Freundesliste ist leer oder ausgeblendet"
+    },
+    "_hidden": {
+        "EN": "Hidden",
+        "RU": "Скрыт",
+        "UA": "Прихований",
+        "DE": "Ist versteckt"
+    },
+    "_Shop_not_installed": {
+        "EN": "Shop not installed",
+        "RU": "Модуль Shop не установлен",
+        "UA": "Модуль Shop не встановлено",
+        "DE": "Shop-Modul nicht installiert"
+    },
+    "_Warns_List": {
+        "EN": "Warn list",
+        "RU": "Список выговоров",
+        "UA": "Список доган",
+        "DE": "Liste der Abmahnungen"
+    },
+    "_hours": {
+        "EN": "h.",
+        "RU": "ч.",
+        "UA": "год.",
+        "DE": "h."
+    },
+    "_minutes": {
+        "EN": "m.",
+        "RU": "м.",
+        "UA": "м.",
+        "DE": "m."
+    },
+    "_seconds": {
+        "EN": "s.",
+        "RU": "с.",
+        "UA": "с.",
+        "DE": "Mit."
+    },
+    "_Permanent": {
+        "EN": "Permanent",
+        "RU": "Никогда",
+        "UA": "Ніколи",
+        "DE": "Niemals"
+    },
+    "_Shop_items": {
+        "EN": "Items",
+        "RU": "Предметы",
+        "UA": "Предмети",
+        "DE": "Artikel"
+    },
+    "_Shop_allprice": {
+        "EN": "Item cost",
+        "RU": "Стоимость предметов",
+        "UA": "Вартість предметів",
+        "DE": "Gegenstandskosten"
+    },
+    "_Shop_credits": {
+        "EN": "Number of credits",
+        "RU": "Кол-во кредитов",
+        "UA": "Кількість кредитів",
+        "DE": "Anzahl der Credits"
+    },
+    "_Demos": {
+        "EN": "Demos",
+        "RU": "Демки",
+        "UA": "Демки",
+        "DE": "Demos"
+    },
+    "_Watch_demo": {
+        "EN": "More details",
+        "RU": "Подробнее",
+        "UA": "Детальніше",
+        "DE": "Mehr"
+    },
+    "_LcrsReports": {
+        "EN": "Reports",
+        "RU": "Жалобы",
+        "UA": "Скарги",
+        "DE": "Beschwerden"
+    },
+    "_LcrsCommends": {
+        "EN": "Commends",
+        "RU": "Благодарности",
+        "UA": "Подяки",
+        "DE": "Vielen Dank"
+    },
+    "_LcrsFactor": {
+        "EN": "Trust factor",
+        "RU": "Траст фактор",
+        "UA": "Траст фактор",
+        "DE": "Vertrauensfaktor"
+    },
+    "_LcrsId": {
+        "EN": "Trust ID",
+        "RU": "Траст ID",
+        "UA": "Траст ID",
+        "DE": "Trust ID"
+    },
+    "_PlayerBalance": {
+        "EN": "Balance",
+        "RU": "Баланс",
+        "UA": "Баланс",
+        "DE": "Balance"
+    },
+    "_PlayerAllBalance": {
+        "EN": "Total donated",
+        "RU": "Всего пожертвовал",
+        "UA": "Усього пожертвував",
+        "DE": "Insgesamt gespendet"
+    },
+    "_PlayerAllBought": {
+        "EN": "Total Purchases",
+        "RU": "Всего покупок",
+        "UA": "Усього покупок",
+        "DE": "Gesamteinkäufe"
+    },
+    "_PlayerLikes": {
+        "EN": "Likes",
+        "RU": "Лайки",
+        "UA": "Лайки",
+        "DE": "Likes"
+    },
+    "_PlayerDislikes": {
+        "EN": "Dislikes",
+        "RU": "Дизлайки",
+        "UA": "Дизлайки",
+        "DE": "Abneigungen"
+    },
+    "_BansGiven": {
+        "EN": "Bans issued",
+        "RU": "Выдано банов",
+        "UA": "Видано банів",
+        "DE": "Verbote erteilt"
+    },
+    "_CommsGiven": {
+        "EN": "Comms issued",
+        "RU": "Выдано мутов",
+        "UA": "Видано мутів",
+        "DE": "Ausgestellte Stummschaltungen"
+    },
+    "_Hystory": {
+        "EN": "Purchase History",
+        "RU": "История покупок",
+        "UA": "Історія покупок",
+        "DE": "Kaufhistorie"
+    },
+    "_DonationList": {
+        "EN": "Donation list",
+        "RU": "Список пожертвований",
+        "UA": "Список пожертвувань",
+        "DE": "Spendenliste"
+    },
+    "_GoToDemo": {
+        "EN": "Go to",
+        "RU": "Перейти",
+        "UA": "Перейти",
+        "DE": "gehen"
+    },
+    "_Demoempty": {
+        "EN": "No entries",
+        "RU": "Записи отсутствуют",
+        "UA": "Записи відсутні",
+        "DE": "Keine Einträge"
+    },
+    "_Playing_on_the_server": {
+        "EN": "Playing on the server",
+        "RU": "Играет на сервере",
+        "UA": "Грає на сервері",
+        "DE": "Auf dem Server spielen"
+    },
+    "_balance": {
+        "EN": "Balance",
+        "RU": "Баланс",
+        "UA": "Баланс",
+        "DE": "Balance"
+    },
+    "_progress": {
+        "EN": "Progress",
+        "RU": "Прогресс",
+        "UA": "Прогрес",
+        "DE": "Fortschritt"
+    },
+    "_player": {
+        "EN": "Player",
+        "RU": "Игрок",
+        "UA": "Гравець",
+        "DE": "Spieler"
+    },
+    "_Settings_profile": {
+        "EN": "Settings profile",
+        "RU": "Настройки профиля",
+        "UA": "Налаштування профілю",
+        "DE": "Profileinstellungen"
+    },
+    "_Profile_background": {
+        "EN": "Profile background",
+        "RU": "Фон для профиля",
+        "UA": "Фон для профілю",
+        "DE": "Profilhintergrund"
+    }
+}
