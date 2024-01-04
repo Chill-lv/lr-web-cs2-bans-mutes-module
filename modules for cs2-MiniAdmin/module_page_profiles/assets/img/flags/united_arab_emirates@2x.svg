@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>united_arab_emirates@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-747.000000, -866.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="united_arab_emirates">
+            <g transform="translate(677.000000, 796.000000)">
+                <g id="netherlands-2">
+                    <g id="Mozambique-2">
+                        <g id="Equatorial_Guinea-7">
+                            <path d="M0.25,7.28 L0.25,16.28 L70.25,16.28 L70.25,7.28 C70.25,3.61282926 67.2771707,0.64 63.61,0.64 L6.89,0.64 C3.22282926,0.64 0.25,3.61282926 0.25,7.28 Z" id="Shape" fill="#52C162"></path>
+                            <polygon id="Shape" fill="#FFFFFF" points="0.25 32 70.25 32 70.25 16.31 0.25 16.31"></polygon>
+                            <path d="M0.25,41 C0.25,44.6671707 3.22282926,47.64 6.89,47.64 L63.61,47.64 C67.2771707,47.64 70.25,44.6671707 70.25,41 L70.25,32 L0.25,32 L0.25,41 Z" id="Shape" fill="#434A54"></path>
+                        </g>
+                    </g>
+                </g>
+                <path d="M6.61,0.63 C3.09746899,0.63 0.25,3.47746899 0.25,6.99 L0.25,41.26 C0.25,44.772531 3.09746899,47.62 6.61,47.62 L18.25,47.62 L18.25,0.62 L6.61,0.63 Z" id="Shape" fill="#ED5565"></path>
+            </g>
+        </g>
+    </g>
+</svg>

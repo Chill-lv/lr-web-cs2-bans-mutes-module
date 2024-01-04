@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>vanuatu@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-662.000000, -927.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="vanuatu">
+            <g transform="translate(592.000000, 857.000000)">
+                <rect id="Rounded_Rectangle_7_copy-55" fill="#57A863" x="0.63" y="0.98" width="70" height="47" rx="6.36"></rect>
+                <path d="M64.27,1 L7,1 C3.48746899,1 0.64,3.84746787 0.64,7.35999749 L0.64,20.9999921 L70.64,20.9999921 L70.64,7.3499975 C70.6373499,5.66322064 69.9647375,4.04658275 68.7701304,2.85572677 C67.5755232,1.66487078 65.9567775,0.99734575 64.27,1 Z" id="Shape" fill="#ED5565"></path>
+                <path d="M31.21,22 L70.64,22 L70.64,19.5 L31.86,19.5 L2.45,2.9 C1.86209588,3.503049 1.3998195,4.21685811 1.09,5 L31.21,22 Z" id="Shape" fill="#434A54"></path>
+                <path d="M31.21,27 L1.09,44 C1.40005643,44.7830198 1.86230419,45.4967847 2.45,46.1 L31.87,29.52 L70.64,29.52 L70.64,27 L31.21,27 Z" id="Shape" fill="#434A54"></path>
+                <path d="M31.21,22 L1.09,5 C0.793450008,5.74454717 0.640753522,6.53856889 0.64,7.34 L0.64,41.61 C0.640753522,42.4114311 0.793450008,43.2054528 1.09,43.95 L31.21,26.95 L70.64,26.95 L70.64,21.95 L31.21,22 Z" id="Shape" fill="#FFCE54"></path>
+                <polygon id="Rectangle_32_copy" fill="#434A54" points="0.62 24.48 0.73 8.97 27.64 24.48 0.73 40"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

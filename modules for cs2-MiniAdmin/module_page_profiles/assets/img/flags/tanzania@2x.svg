@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>tanzania@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-662.000000, -744.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="tanzania">
+            <g transform="translate(592.000000, 674.000000)">
+                <rect id="Rounded_Rectangle_7_copy-53" fill="#4A89DC" x="0.63" y="0.13" width="70" height="47" rx="6.36"></rect>
+                <path d="M65,0.17 C64.7668403,0.15726987 64.5331597,0.15726987 64.3,0.17 L7,0.17 C3.48746899,0.17 0.64,3.01746899 0.64,6.53 L0.64,40.8 L28.64,29.16 L65,0.17 Z" id="Shape" fill="#57A863"></path>
+                <path d="M70.63,6.49 C70.624807,3.12110735 67.9934956,0.340688261 64.63,0.15 L0.63,40.87 C0.684620199,44.3434169 3.5161537,47.1304294 6.99,47.13 L7.56,47.13 L70.63,7 L70.63,6.49 Z" id="Shape" fill="#434A54"></path>
+                <path d="M70.52,5.32 L5.18,46.86 C5.76716255,47.0367849 6.37680543,47.1277261 6.99,47.13 L10.35,47.13 L70.63,8.81 L70.63,6.5 C70.6300237,6.10410571 70.5931982,5.70906853 70.52,5.32 Z" id="Shape" fill="#FFCE54"></path>
+                <path d="M0.87,42.49 L66.72,0.62 C65.9408155,0.294467508 65.1044497,0.127874313 64.26,0.13 L61.9,0.13 L0.62,39.13 L0.62,40.8 C0.626949917,41.372013 0.71104171,41.9404735 0.87,42.49 Z" id="Shape" fill="#FFCE54"></path>
+            </g>
+        </g>
+    </g>
+</svg>

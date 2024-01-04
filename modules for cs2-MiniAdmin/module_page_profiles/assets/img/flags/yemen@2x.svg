@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="48px" viewBox="0 0 70 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>yemen@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-578.000000, -989.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="yemen">
+            <g transform="translate(508.000000, 919.000000)">
+                <g id="Mozambique-8">
+                    <g id="Equatorial_Guinea-14">
+                        <path d="M0,6.89 L0,15.89 L70,15.89 L70,6.89 C70,3.22282926 67.0271707,0.25 63.36,0.25 L6.65,0.25 C4.88723053,0.247345224 3.19575038,0.945742489 1.94834517,2.1912719 C0.700939967,3.43680131 -1.9990797e-06,5.12722853 0,6.89 Z" id="Shape" fill="#ED5565"></path>
+                        <polygon id="Shape" fill="#FFFFFF" points="0 31.59 70 31.59 70 15.92 0 15.92"></polygon>
+                        <path d="M0,40.61 C0,44.2771707 2.97282926,47.25 6.64,47.25 L63.36,47.25 C67.0271707,47.25 70,44.2771707 70,40.61 L70,31.61 L0,31.61 L0,40.61 Z" id="Shape" fill="#434A54"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

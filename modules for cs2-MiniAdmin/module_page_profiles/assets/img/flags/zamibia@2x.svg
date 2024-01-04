@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>zamibia@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-662.000000, -989.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="zamibia">
+            <g transform="translate(592.000000, 919.000000)">
+                <rect id="Rounded_Rectangle_7_copy-56" fill="#52C162" x="0.63" y="0.27" width="70" height="47" rx="6.36"></rect>
+                <path d="M60.63,47.27 L64.27,47.27 C65.9567769,47.27 67.5744678,46.5999305 68.7671991,45.4071991 C69.9599305,44.2144678 70.63,42.5967769 70.63,40.91 L70.63,20.27 L60.63,20.27 L60.63,47.27 Z" id="Shape" fill="#F6D660"></path>
+                <polygon id="Rectangle_1_copy_42" fill="#434A54" points="50.63 47.27 50.63 20.27 60.63 20.27 60.63 47.27"></polygon>
+                <polygon id="Rectangle_1_copy_43" fill="#ED5565" points="40.63 47.27 40.63 20.27 50.63 20.27 50.63 47.27"></polygon>
+                <path d="M48.65,9.14 L50.72,5.99 C51.0152571,5.57967326 51.4760713,5.32000808 51.98,5.28 L56.98,5.28 L58.64,15.28 L50.97,15.28 L51.97,9.14 L48.66,9.14 L48.65,9.14 Z" id="Shape_7_copy" fill="#F6D660"></path>
+            </g>
+        </g>
+    </g>
+</svg>

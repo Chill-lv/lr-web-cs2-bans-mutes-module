@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>ukraine@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-662.000000, -866.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="ukraine">
+            <g transform="translate(592.000000, 796.000000)">
+                <path d="M64.27,47.6999921 L7,47.6999921 C3.48746899,47.6999921 0.64,44.8525241 0.64,41.3399942 L0.64,23.7 L70.64,23.7 L70.64,41.3399942 C70.6400021,43.0285046 69.96856,44.6477122 68.773665,45.8407311 C67.5787699,47.0337499 65.9585088,47.702647 64.27,47.6999921 Z" id="Shape" fill="#F6D660"></path>
+                <path d="M0.63,7.05999782 C0.629997913,5.37148748 1.30143996,3.75227984 2.49633501,2.55926101 C3.69123007,1.36624217 5.31149117,0.69734511 7,0.7 L64.27,0.7 C67.782531,0.7 70.63,3.54746802 70.63,7.05999782 L70.63,23.6999921 L0.63,23.6999921 L0.63,7.05999782 Z" id="Shape" fill="#4A89DC"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Uganda@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-578.000000, -866.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Uganda">
+            <g transform="translate(508.000000, 796.000000)">
+                <path d="M0,41.32 C0,44.832531 2.84746899,47.68 6.36,47.68 L63.63,47.68 C67.142531,47.68 69.99,44.832531 69.99,41.32 L69.99,39.85 L0,39.85 L0,41.32 Z" id="Shape" fill="#ED5565"></path>
+                <rect id="Rectangle-path" fill="#F6BB42" x="0.01" y="32.01" width="70" height="7.83"></rect>
+                <rect id="Rectangle-path" fill="#434A54" x="0.01" y="24.18" width="70" height="7.83"></rect>
+                <rect id="Rectangle-path" fill="#ED5565" x="0.01" y="16.35" width="70" height="7.83"></rect>
+                <rect id="Rectangle-path" fill="#F6BB42" x="0.01" y="8.51" width="70" height="7.83"></rect>
+                <path d="M63.64,0.68 L6.37,0.68 C2.86913134,0.674426271 0.0220136328,3.49919612 1.13686838e-13,7 L1.13686838e-13,8.47 L70,8.47 L70,7 C69.9780065,3.50310001 67.1369691,0.679930837 63.64,0.68 Z" id="Shape" fill="#434A54"></path>
+                <circle id="Oval" fill="#FFFFFF" cx="35.01" cy="24.18" r="7.83"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
