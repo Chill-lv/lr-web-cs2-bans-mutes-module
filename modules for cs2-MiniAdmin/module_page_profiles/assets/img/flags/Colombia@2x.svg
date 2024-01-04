@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="47px" viewBox="0 0 71 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Colombia@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-154.000000, -499.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Colombia">
+            <g transform="translate(84.000000, 429.000000)">
+                <path d="M64.54,-2.70426002e-12 L7.27,-2.70426002e-12 C3.75746899,-2.70426002e-12 0.91,2.84746801 0.91,6.35999782 L0.91,22.9999921 L70.91,22.9999921 L70.91,6.34999782 C70.9073499,4.66322088 70.2347375,3.04658291 69.0401304,1.85572686 C67.8455232,0.664870815 66.2267775,-0.00265425003 64.54,-2.70426002e-12 Z" id="Shape" fill="#F6BB42"></path>
+                <rect id="Rectangle-path" fill="#4758A9" x="0.9" y="22.98" width="70" height="12"></rect>
+                <path d="M0.9,40.62 C0.894677197,42.3119738 1.56377025,43.9363284 2.75924357,45.1336784 C3.95471689,46.3310285 5.57801996,47.0026687 7.27,47 L64.54,47 C68.052531,47 70.9,44.152531 70.9,40.64 L70.9,35 L0.899968483,35 L0.9,40.62 Z" id="Shape" fill="#ED5565"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Italy@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-70.000000, -1050.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Italy">
+            <g transform="translate(0.000000, 980.000000)">
+                <g id="France">
+                    <g id="Belgium-2">
+                        <g id="Bahamas-2">
+                            <path d="M6.65,0.53 C3.13746899,0.53 0.29,3.37746899 0.29,6.89 L0.29,41.16 C0.29,44.672531 3.13746899,47.52 6.65,47.52 L23.65,47.52 C23.65,31.8533333 23.65,16.1866667 23.65,0.52 L6.65,0.53 Z" id="Shape" fill="#57A863"></path>
+                            <path d="M23.63,0.53 C23.63,16.1966667 23.63,31.8633333 23.63,47.53 L47,47.53 C47,31.8633333 47,16.1966667 47,0.53 L23.63,0.53 Z" id="Shape" fill="#FFFFFF"></path>
+                            <path d="M63.92,0.53 L47,0.53 C47,16.1966667 47,31.8633333 47,47.53 L63.92,47.53 C67.432531,47.53 70.28,44.682531 70.28,41.17 L70.28,6.89 C70.28,3.37746899 67.432531,0.53 63.92,0.53 Z" id="Shape" fill="#ED5565"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

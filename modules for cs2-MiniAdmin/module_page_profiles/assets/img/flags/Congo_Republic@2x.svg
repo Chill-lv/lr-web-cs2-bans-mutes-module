@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Congo_Republic@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-408.000000, -498.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Congo_Republic">
+            <g transform="translate(338.000000, 428.000000)">
+                <rect id="Rounded_Rectangle_7_copy-23" fill="#4758A9" x="0.77" y="0.98" width="70" height="47" rx="6.36"></rect>
+                <path d="M5.78,47.83 C6.22338022,47.9278967 6.6759444,47.9781816 7.13,47.98 L64.4,47.98 C67.912531,47.98 70.76,45.132531 70.76,41.62 L70.76,8.84 L5.78,47.83 Z" id="Shape" fill="#ED5565"></path>
+                <path d="M7.13,1 C3.61746899,1 0.77,3.84746899 0.77,7.36 L0.77,36.86 L60.53,1 L7.13,1 Z" id="Shape" fill="#52C162"></path>
+                <path d="M70.56,5.76 C69.8125686,2.9673893 67.2908434,1.01878343 64.4,1 L60.53,1 L0.76,36.86 L0.76,41.63 C0.7641998,44.6184798 2.84226375,47.2035913 5.76,47.85 L70.76,8.85 L70.76,7.36 C70.7615938,6.8203348 70.6943854,6.28266779 70.56,5.76 Z" id="Shape" fill="#F2D660"></path>
+            </g>
+        </g>
+    </g>
+</svg>

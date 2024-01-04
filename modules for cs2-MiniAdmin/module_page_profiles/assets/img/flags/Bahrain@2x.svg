@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Bahrain@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-239.000000, -192.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Bahrain">
+            <g transform="translate(169.000000, 122.000000)">
+                <rect id="Rounded_Rectangle_7_copy-13" fill="#ED5565" x="0.52" y="0.57" width="70" height="47" rx="6.36"></rect>
+                <path d="M23.52,42.39 L18.66,37.81 L23.52,33.23 L18.66,28.65 L23.52,24.07 L18.66,19.49 L23.52,14.91 L18.66,10.33 L23.52,5.75 L18.52,1.04 L18.52,0.57 L6.89,0.57 C3.37746899,0.57 0.53,3.41746899 0.53,6.93 L0.53,41.2 C0.53,44.712531 3.37746899,47.56 6.89,47.56 L18.53,47.56 L18.53,47.09 L23.52,42.39 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>central-african-republic@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-239.000000, -437.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="central-african-republic">
+            <g transform="translate(169.000000, 367.000000)">
+                <rect id="Rectangle-path" fill="#FFFFFF" x="0.52" y="12.7" width="70" height="11"></rect>
+                <path d="M64.16,0.7 L6.89,0.7 C3.37746899,0.7 0.53,3.54746712 0.53,7.05999583 L0.53,12.6999921 L70.53,12.6999921 L70.53,7.05999583 C70.5300021,5.37148602 69.85856,3.75227888 68.663665,2.55926042 C67.4687699,1.36624196 65.8485088,0.69734511 64.16,0.7 Z" id="Shape" fill="#4758A9"></path>
+                <path d="M0.52,41.34 C0.52,44.852531 3.36746899,47.7 6.88,47.7 L64.15,47.7 C67.662531,47.7 70.51,44.852531 70.51,41.34 L70.51,35.7 L0.51,35.7 L0.52,41.34 Z" id="Shape" fill="#F6D660"></path>
+                <rect id="Rectangle-path" fill="#52C162" x="0.52" y="23.7" width="70" height="12"></rect>
+                <rect id="Rectangle-path" fill="#ED5565" x="30.52" y="0.7" width="11" height="47"></rect>
+                <path d="M10,9.6 C9.72,9.8 9.56,9.68 9.64,9.36 L9.94,8.13 C10.0076924,7.76410087 9.88754008,7.38862472 9.62,7.13 L8.72,6.35 C8.46,6.13 8.53,5.94 8.87,5.93 L10.13,5.93 C10.4913,5.90209866 10.8016112,5.66249124 10.92,5.32 L11.32,3.98 C11.42,3.65 11.59,3.65 11.7,3.98 L12.18,5.3 C12.3266053,5.63041939 12.6401197,5.85599681 13,5.89 L14.29,5.89 C14.63,5.89 14.7,6.08 14.44,6.3 L13.44,7.16 C13.1732325,7.41855778 13.0629519,7.79883568 13.15,8.16 L13.46,9.24 C13.55,9.57 13.4,9.69 13.11,9.51 L12.11,8.87 C11.8005989,8.69136721 11.4194011,8.69136721 11.11,8.87 L10,9.6 Z" id="Shape_2_copy_23" fill="#F6D660"></path>
+            </g>
+        </g>
+    </g>
+</svg>

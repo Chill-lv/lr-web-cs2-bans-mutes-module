@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Faroe_Islands@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-747.000000, -1050.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Faroe_Islands">
+            <g transform="translate(677.000000, 980.000000)">
+                <path d="M0.25,30.37 L0.25,40.83 C0.25,44.4971707 3.22282926,47.47 6.89,47.47 L19.33,47.47 L19.33,30.37 L0.25,30.37 Z" id="Shape" fill="#FFFFFF"></path>
+                <path d="M19.33,0.47 L6.89,0.47 C3.22282926,0.47 0.25,3.44282926 0.25,7.11 L0.25,17.57 L19.33,17.57 L19.33,0.47 Z" id="Shape" fill="#FFFFFF"></path>
+                <path d="M32.14,47.47 L63.61,47.47 C67.2771707,47.47 70.25,44.4971707 70.25,40.83 L70.25,30.37 L32.14,30.37 L32.14,47.47 Z" id="Shape" fill="#FFFFFF"></path>
+                <path d="M70.25,17.57 L70.25,7.11 C70.25,3.44282926 67.2771707,0.47 63.61,0.47 L32.14,0.47 L32.14,17.57 L70.25,17.57 Z" id="Shape" fill="#FFFFFF"></path>
+                <polygon id="Shape" fill="#4658A9" points="28.93 20.77 70.25 20.77 70.25 17.57 32.13 17.57 32.13 0.47 28.93 0.47"></polygon>
+                <polygon id="Shape" fill="#4658A9" points="28.93 27.17 28.93 47.47 32.13 47.47 32.13 30.37 70.25 30.37 70.25 27.17"></polygon>
+                <polygon id="Shape" fill="#4658A9" points="22.53 20.77 22.53 0.47 19.34 0.47 19.34 17.57 0.25 17.57 0.25 20.77"></polygon>
+                <polygon id="Shape" fill="#4658A9" points="22.53 27.17 0.25 27.17 0.25 30.37 19.34 30.37 19.34 47.47 22.53 47.47"></polygon>
+                <polygon id="Shape" fill="#EC5565" points="28.93 0.47 22.53 0.47 22.53 20.77 0.25 20.77 0.25 27.17 22.53 27.17 22.53 47.47 28.93 47.47 28.93 27.17 70.25 27.17 70.25 20.77 28.93 20.77"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Iceland@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-324.000000, -927.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Iceland">
+            <g transform="translate(254.000000, 857.000000)">
+                <rect id="Rounded_Rectangle_7_copy-20" fill="#4758A9" x="0.15" y="0.96" width="70" height="47" rx="6.36"></rect>
+                <polygon id="Rectangle_5_copy_4" fill="#FFFFFF" points="0.15 31 0.15 19 70.15 19 70.15 31"></polygon>
+                <rect id="Rectangle_5_copy_3" fill="#FFFFFF" x="16.15" y="0.96" width="12" height="47"></rect>
+                <polygon id="Rectangle_5_copy_2" fill="#ED5565" points="0.15 29 0.15 21 70.15 21 70.15 29"></polygon>
+                <rect id="Rectangle_5_copy_2-2" fill="#ED5565" x="18.15" y="0.96" width="8" height="47"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

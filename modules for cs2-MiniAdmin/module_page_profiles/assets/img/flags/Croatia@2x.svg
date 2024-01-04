@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Croatia@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-239.000000, -560.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Croatia">
+            <g transform="translate(169.000000, 490.000000)">
+                <path d="M0.52,6.91 L0.52,15.91 L70.52,15.91 L70.52,6.91 C70.52,3.24282926 67.5471707,0.27 63.88,0.27 L7.17,0.27 C5.40723053,0.267345224 3.71575038,0.965742489 2.46834517,2.2112719 C1.22093997,3.45680131 0.519998001,5.14722853 0.52,6.91 Z" id="Shape" fill="#ED5565"></path>
+                <polygon id="Shape" fill="#FFFFFF" points="0.52 31.61 70.52 31.61 70.52 15.94 0.52 15.94"></polygon>
+                <path d="M0.52,40.62 C0.52,44.2871707 3.49282926,47.26 7.16,47.26 L63.88,47.26 C67.5471707,47.26 70.52,44.2871707 70.52,40.62 L70.52,31.62 L0.52,31.62 L0.52,40.62 Z" id="Shape" fill="#4758A9"></path>
+                <path d="M36.29,37.09 L34.9,37.09 C30.3569619,37.0955435 26.6665368,33.4230114 26.65,28.88 L26.65,17.88 L44.54,17.88 L44.54,28.88 C44.5234632,33.4230114 40.8330381,37.0955435 36.29,37.09 Z M28.65,19.92 L28.65,28.92 C28.6665267,32.3584405 31.4615243,35.1355501 34.9,35.13 L36.29,35.13 C39.7284757,35.1355501 42.5234733,32.3584405 42.54,28.92 L42.54,19.92 L28.65,19.92 Z" id="Shape" fill="#FFFFFF"></path>
+                <path d="M40.36,34.84 C41.2008141,34.2667325 41.91267,33.5242225 42.45,32.66 L40.36,32.66 L40.36,34.84 Z" id="Shape" fill="#ED5565"></path>
+                <path d="M40.36,32.66 L42.45,32.66 C43.0944393,31.6271289 43.4628701,30.4460843 43.52,29.23 L40.36,29.23 L40.36,32.66 Z" id="Shape" fill="#FFFFFF"></path>
+                <path d="M40.36,29.23 L43.52,29.23 C43.52,29.12 43.52,29.01 43.52,28.89 L43.52,25.8 L40.34,25.8 L40.36,29.23 Z" id="Shape" fill="#ED5565"></path>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="40.36" y="22.36" width="3.18" height="3.43"></rect>
+                <rect id="Rectangle-path" fill="#ED5565" x="40.36" y="18.92" width="3.18" height="3.43"></rect>
+                <path d="M37.18,32.66 L37.18,36 C38.3194338,35.8613854 39.4094905,35.4534711 40.36,34.81 L40.36,32.63 L37.18,32.66 Z" id="Shape" fill="#FFFFFF"></path>
+                <rect id="Rectangle-path" fill="#ED5565" x="37.18" y="29.23" width="3.18" height="3.43"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="37.18" y="25.79" width="3.18" height="3.43"></rect>
+                <rect id="Rectangle-path" fill="#ED5565" x="37.18" y="22.36" width="3.18" height="3.43"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="37.18" y="18.92" width="3.18" height="3.43"></rect>
+                <path d="M34,32.66 L34,36 C34.2984664,36.038635 34.5990464,36.0586737 34.9,36.06 L36.29,36.06 C36.5909536,36.0586737 36.8915336,36.038635 37.19,36 L37.19,32.63 L34,32.66 Z" id="Shape" fill="#ED5565"></path>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="34" y="29.23" width="3.18" height="3.43"></rect>
+                <rect id="Rectangle-path" fill="#ED5565" x="34" y="25.79" width="3.18" height="3.43"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="34" y="22.36" width="3.18" height="3.43"></rect>
+                <rect id="Rectangle-path" fill="#ED5565" x="34" y="18.92" width="3.18" height="3.43"></rect>
+                <path d="M30.83,32.66 L30.83,34.84 C31.7803359,35.4713762 32.8666066,35.8688758 34,36 L34,32.63 L30.83,32.66 Z" id="Shape" fill="#FFFFFF"></path>
+                <rect id="Rectangle-path" fill="#ED5565" x="30.83" y="29.23" width="3.18" height="3.43"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="30.83" y="25.79" width="3.18" height="3.43"></rect>
+                <rect id="Rectangle-path" fill="#ED5565" x="30.83" y="22.36" width="3.18" height="3.43"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="30.83" y="18.92" width="3.18" height="3.43"></rect>
+                <path d="M28.74,32.66 C29.27733,33.5242225 29.9891859,34.2667325 30.83,34.84 L30.83,32.66 L28.74,32.66 Z" id="Shape" fill="#ED5565"></path>
+                <path d="M30.83,29.23 L27.67,29.23 C27.7271299,30.4460843 28.0955607,31.6271289 28.74,32.66 L30.83,32.66 L30.83,29.23 Z" id="Shape" fill="#FFFFFF"></path>
+                <path d="M30.83,25.79 L27.65,25.79 L27.65,28.88 C27.65,28.99 27.65,29.11 27.65,29.22 L30.81,29.22 L30.83,25.79 Z" id="Shape" fill="#ED5565"></path>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="27.65" y="22.36" width="3.18" height="3.43"></rect>
+                <rect id="Rectangle-path" fill="#ED5565" x="27.65" y="18.92" width="3.18" height="3.43"></rect>
+                <path d="M35.56,16 C38.1177572,16.0008879 40.6661015,16.3097782 43.15,16.92 C43.4511828,16.9940481 43.7632917,16.8483973 43.9,16.57 L46.03,12.23 C46.1175857,12.0514419 46.1213173,11.8432009 46.0401852,11.6616194 C45.959053,11.4800379 45.8014435,11.3438855 45.61,11.29 C38.9849353,9.45335832 31.9850647,9.45335832 25.36,11.29 C25.1703621,11.3461713 25.0152315,11.4832601 24.936159,11.6645481 C24.8570866,11.845836 24.8621526,12.0527979 24.95,12.23 L27.08,16.57 C27.2167083,16.8483973 27.5288172,16.9940481 27.83,16.92 C30.3593382,16.2983177 32.9554027,15.9893423 35.56,16 Z" id="Shape" fill="#4758A9"></path>
+            </g>
+        </g>
+    </g>
+</svg>

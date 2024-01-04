@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Equatorial_Guinea@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-239.000000, -682.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Equatorial_Guinea">
+            <g transform="translate(169.000000, 612.000000)">
+                <path d="M0.52,7.47 L0.52,16.47 L70.52,16.47 L70.52,7.47 C70.52,3.80282926 67.5471707,0.83 63.88,0.83 L7.17,0.83 C5.40723053,0.827345224 3.71575038,1.52574249 2.46834517,2.7712719 C1.22093997,4.01680131 0.519998001,5.70722853 0.52,7.47 Z" id="Shape" fill="#52C162"></path>
+                <polygon id="Shape" fill="#FFFFFF" points="0.52 32.18 70.52 32.18 70.52 16.51 0.52 16.51"></polygon>
+                <path d="M0.52,41.19 C0.52,44.8571707 3.49282926,47.83 7.16,47.83 L63.88,47.83 C67.5471707,47.83 70.52,44.8571707 70.52,41.19 L70.52,32.19 L0.52,32.19 L0.52,41.19 Z" id="Shape" fill="#ED5565"></path>
+                <path d="M2.65,2.46 C1.29534581,3.66308 0.520117561,5.38823582 0.52,7.2 L0.52,41.47 C0.520117561,43.2817642 1.29534581,45.00692 2.65,46.21 L28.52,24.33 L2.65,2.46 Z" id="Shape" fill="#4A89DC"></path>
+            </g>
+        </g>
+    </g>
+</svg>

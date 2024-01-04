@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Indonesia@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-70.000000, -989.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Indonesia">
+            <g transform="translate(0.000000, 919.000000)">
+                <path d="M63.92,0.25 L6.65,0.25 C3.13746899,0.25 0.29,3.09746806 0.29,6.60999791 L0.29,24.2499921 L70.29,24.2499921 L70.29,6.60999791 C70.2900021,4.92148755 69.61856,3.30227988 68.423665,2.10926103 C67.2287699,0.916242181 65.6085088,0.247345109 63.92,0.25 Z" id="Shape" fill="#ED5565"></path>
+                <path d="M0.28,40.88 C0.28,44.392531 3.12746899,47.24 6.64,47.24 L63.92,47.24 C67.432531,47.24 70.28,44.392531 70.28,40.88 L70.28,24.25 L0.28,24.25 L0.28,40.88 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

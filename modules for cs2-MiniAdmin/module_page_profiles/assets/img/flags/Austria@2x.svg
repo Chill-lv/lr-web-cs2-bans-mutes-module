@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Austria@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-408.000000, -131.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Austria">
+            <g transform="translate(338.000000, 61.000000)">
+                <path d="M0.77,6.93 L0.77,15.93 L70.77,15.93 L70.77,6.93 C70.77,3.26282926 67.7971707,0.29 64.13,0.29 L7.41,0.29 C5.64896251,0.29 3.96005253,0.98956942 2.71481097,2.23481097 C1.46956942,3.48005253 0.77,5.16896251 0.77,6.93 Z" id="Shape" fill="#ED5565"></path>
+                <polygon id="Shape" fill="#FFFFFF" points="0.77 31.63 70.77 31.63 70.77 16 0.77 16"></polygon>
+                <path d="M0.77,40.64 C0.77,44.3071707 3.74282926,47.28 7.41,47.28 L64.13,47.28 C67.7971707,47.28 70.77,44.3071707 70.77,40.64 L70.77,31.64 L0.77,31.64 L0.77,40.64 Z" id="Shape" fill="#ED5565"></path>
+            </g>
+        </g>
+    </g>
+</svg>

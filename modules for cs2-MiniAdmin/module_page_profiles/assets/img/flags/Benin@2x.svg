@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Benin@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-324.000000, -253.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Benin">
+            <g transform="translate(254.000000, 183.000000)">
+                <path d="M63.78,0.85 L24.15,0.849992127 L24.15,23.8499921 L70.15,23.8499921 L70.15,7.20999782 C70.1500021,5.52148748 69.47856,3.90227984 68.283665,2.70926101 C67.0887699,1.51624217 65.4685088,0.84734511 63.78,0.85 Z" id="Shape" fill="#F6D660"></path>
+                <path d="M24.15,0.85 L6.51,0.85 C2.99746899,0.85 0.15,3.69746899 0.15,7.21 L0.15,41.48 C0.15,44.992531 2.99746899,47.84 6.51,47.84 L24.15,47.84 L24.15,0.84 L24.15,0.85 Z" id="Shape" fill="#57A863"></path>
+                <path d="M24.15,47.85 L63.79,47.85 C67.302531,47.85 70.15,45.002531 70.15,41.49 L70.15,23.85 L24.15,23.85 L24.15,47.85 Z" id="Shape" fill="#ED5565"></path>
+            </g>
+        </g>
+    </g>
+</svg>

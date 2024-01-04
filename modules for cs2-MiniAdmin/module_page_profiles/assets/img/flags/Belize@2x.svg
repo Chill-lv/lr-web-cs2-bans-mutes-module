@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Belize@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-239.000000, -253.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Belize">
+            <g transform="translate(169.000000, 183.000000)">
+                <path d="M0.52,7.21 L0.52,41.48 C0.521394411,42.2888067 0.677535126,43.0898765 0.98,43.84 L70.06,43.84 C70.3624649,43.0898765 70.5186056,42.2888067 70.52,41.48 L70.52,7.21 C70.5186056,6.40119326 70.3624649,5.60012351 70.06,4.85 L1,4.85 C0.690685245,5.59877327 0.5277461,6.39989073 0.52,7.21 Z" id="Shape" fill="#4758A9"></path>
+                <path d="M64.16,0.85 L6.89,0.85 C4.28707925,0.84833419 1.94586334,2.43291349 0.98,4.85 L70.06,4.85 C69.0954904,2.43629949 66.7592736,0.852423672 64.16,0.85 Z" id="Shape" fill="#ED5565"></path>
+                <path d="M6.89,47.85 L64.16,47.85 C66.7629207,47.8516658 69.1041367,46.2670865 70.07,43.85 L1,43.85 C1.96315121,46.2603215 4.29437529,47.8434957 6.89,47.85 Z" id="Shape" fill="#ED5565"></path>
+                <circle id="Oval" fill="#FFFFFF" cx="36.02" cy="24.35" r="15.5"></circle>
+                <circle id="Ellipse_2_copy" fill="#57A863" cx="36.02" cy="24.35" r="13.5"></circle>
+                <circle id="Ellipse_2_copy_2" fill="#FFFFFF" cx="36.02" cy="24.35" r="11.5"></circle>
+                <path d="M38.28,20 C37.3970745,19.9855383 36.5688429,19.569582 36.03,18.87 C35.4902036,19.5684255 34.6625673,19.9840828 33.78,20 C32.9413138,19.9764868 32.1405328,19.6454973 31.53,19.07 L31.53,25.19 C31.53,29.19 36.03,30.88 36.03,30.88 C36.03,30.88 40.53,29.21 40.53,25.19 L40.53,19 C39.932405,19.6043683 39.1290535,19.9614134 38.28,20 Z" id="Shape" fill="#F6D660"></path>
+            </g>
+        </g>
+    </g>
+</svg>

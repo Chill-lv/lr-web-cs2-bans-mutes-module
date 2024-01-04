@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Chad@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-324.000000, -437.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Chad">
+            <g transform="translate(254.000000, 367.000000)">
+                <g id="Belgium-6">
+                    <g id="Bahamas-7">
+                        <path d="M6.51,0.7 C2.99746899,0.7 0.15,3.54746899 0.15,7.06 L0.15,41.33 C0.15,44.842531 2.99746899,47.69 6.51,47.69 L23.51,47.69 C23.51,32.0233333 23.51,16.3566667 23.51,0.69 L6.51,0.7 Z" id="Shape" fill="#4758A9"></path>
+                        <path d="M23.49,0.7 C23.49,16.3666667 23.49,32.0333333 23.49,47.7 L46.84,47.7 C46.84,32.0333333 46.84,16.3666667 46.84,0.7 L23.49,0.7 Z" id="Shape" fill="#FFCE54"></path>
+                        <path d="M63.78,0.7 L46.83,0.7 C46.83,16.3666667 46.83,32.0333333 46.83,47.7 L63.78,47.7 C67.292531,47.7 70.14,44.852531 70.14,41.34 L70.14,7.06 C70.14,3.54746899 67.292531,0.7 63.78,0.7 Z" id="Shape" fill="#ED5565"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

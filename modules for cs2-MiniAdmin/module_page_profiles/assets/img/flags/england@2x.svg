@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>england@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-578.000000, -1295.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="england">
+            <g transform="translate(508.000000, 1225.000000)">
+                <path d="M39.59,19.47 L70,19.47 L70,7.29 C70.0004714,3.87037284 67.4037057,1.00960259 64,0.68 L39.59,0.68 L39.59,19.47 Z" id="Shape" fill="#FFFFFF"></path>
+                <path d="M30.19,0.68 L6,0.68 C2.59629434,1.00960259 -0.000471402379,3.87037284 0,7.29 L0,19.47 L30.19,19.47 L30.19,0.68 Z" id="Shape" fill="#FFFFFF"></path>
+                <path d="M0,28.86 L0,41 C0,44.6671707 2.97282926,47.64 6.64,47.64 L30.18,47.64 L30.18,28.85 L0,28.86 Z" id="Shape" fill="#FFFFFF"></path>
+                <path d="M70,41 L70.0000076,28.86 L39.59,28.86 L39.59,47.65 L63.37,47.65 C65.1310381,47.6473498 66.8188957,46.9452375 68.0622623,45.6981202 C69.3056289,44.4510028 70.0026542,42.7610381 70,41 Z" id="Shape" fill="#FFFFFF"></path>
+                <polygon id="Shape" fill="#EC5565" points="70.01 28.86 70.01 19.47 39.59 19.47 39.59 0.68 30.2 0.68 30.2 19.47 0.01 19.47 0.01 28.86 30.2 28.86 30.2 47.65 39.59 47.65 39.59 28.86"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

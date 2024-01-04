@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Guinea@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-324.000000, -866.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Guinea">
+            <g transform="translate(254.000000, 796.000000)">
+                <g id="France-4">
+                    <g id="Belgium-8">
+                        <g id="Bahamas-9">
+                            <path d="M6.51,0.68 C2.99746899,0.68 0.15,3.52746899 0.15,7.04 L0.15,41.31 C0.15,44.822531 2.99746899,47.67 6.51,47.67 L23.51,47.67 C23.51,32.0033333 23.51,16.3366667 23.51,0.67 L6.51,0.68 Z" id="Shape" fill="#ED5565"></path>
+                            <path d="M23.49,0.68 C23.49,16.3466667 23.49,32.0133333 23.49,47.68 L46.84,47.68 C46.84,32.0133333 46.84,16.3466667 46.84,0.68 L23.49,0.68 Z" id="Shape" fill="#F6D660"></path>
+                            <path d="M63.78,0.68 L46.83,0.68 C46.83,16.3466667 46.83,32.0133333 46.83,47.68 L63.78,47.68 C67.292531,47.68 70.14,44.832531 70.14,41.32 L70.14,7 C70.1180065,3.50310001 67.2769691,0.679930837 63.78,0.68 Z" id="Shape" fill="#52C162"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

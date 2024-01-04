@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="47px" viewBox="0 0 71 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>andorra@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-408.000000, -70.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="andorra">
+            <g transform="translate(338.000000, 0.000000)">
+                <rect id="Rectangle-path" fill="#F6D660" x="23.77" y="0" width="24" height="47"></rect>
+                <path d="M7.13,0 C3.61746899,-2.15080493e-16 0.77,2.84746899 0.77,6.36 L0.77,40.64 C0.77,44.152531 3.61746899,47 7.13,47 L23.77,47 L23.77,0 L7.13,0 Z" id="Shape" fill="#4758A9"></path>
+                <path d="M64.4,0 L47.77,0 L47.77,47 L64.4,47 C67.912531,47 70.76,44.152531 70.76,40.64 L70.76,6.36 C70.76,2.84746899 67.912531,2.51731144e-14 64.4,0 Z" id="Shape" fill="#ED5565"></path>
+            </g>
+        </g>
+    </g>
+</svg>

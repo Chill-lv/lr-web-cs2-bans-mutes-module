@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Chech_republic@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-70.000000, -621.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Chech_republic">
+            <g transform="translate(0.000000, 551.000000)">
+                <path d="M63.92,0.55 L6.65,0.55 C3.13746899,0.55 0.29,3.39746806 0.29,6.90999791 L0.29,24.5499921 L70.29,24.5499921 L70.29,6.90999791 C70.2900021,5.22148755 69.61856,3.60227988 68.423665,2.40926103 C67.2287699,1.21624218 65.6085088,0.547345109 63.92,0.55 Z" id="Shape" fill="#FFFFFF"></path>
+                <path d="M0.28,41.18 C0.28,44.692531 3.12746899,47.54 6.64,47.54 L63.92,47.54 C67.432531,47.54 70.28,44.692531 70.28,41.18 L70.28,24.55 L0.28,24.55 L0.28,41.18 Z" id="Shape" fill="#ED5565"></path>
+                <path d="M2.19,2.38 C0.971164836,3.57574529 0.286154249,5.21256006 0.29,6.92 L0.29,41.19 C0.291149023,42.9151958 0.995294766,44.5654245 2.24,45.76 L25.29,24.55 L2.19,2.38 Z" id="Shape" fill="#4758A9"></path>
+            </g>
+        </g>
+    </g>
+</svg>

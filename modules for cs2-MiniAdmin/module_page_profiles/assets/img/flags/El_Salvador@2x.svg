@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>El_Salvador@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-154.000000, -682.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="El_Salvador">
+            <g transform="translate(84.000000, 612.000000)">
+                <g id="Bolivia-7">
+                    <path d="M0.9,7.47 L0.9,16.47 L70.9,16.47 L70.9,7.47 C70.9,3.80282926 67.9271707,0.83 64.26,0.83 L7.55,0.83 C5.78723053,0.827345224 4.09575038,1.52574249 2.84834517,2.7712719 C1.60093997,4.01680131 0.899998001,5.70722853 0.9,7.47 Z" id="Shape" fill="#4A89DC"></path>
+                    <polygon id="Shape" fill="#FFFFFF" points="0.9 32.18 70.9 32.18 70.9 16.51 0.9 16.51"></polygon>
+                    <path d="M0.9,41.19 C0.9,44.8571707 3.87282926,47.83 7.54,47.83 L64.26,47.83 C67.9271707,47.83 70.9,44.8571707 70.9,41.19 L70.9,32.19 L0.9,32.19 L0.9,41.19 Z" id="Shape" fill="#4A89DC"></path>
+                </g>
+                <circle id="Oval" stroke="#FFCE54" stroke-width="2" fill="#FFFFFF" stroke-linejoin="round" cx="35.9" cy="24.33" r="5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

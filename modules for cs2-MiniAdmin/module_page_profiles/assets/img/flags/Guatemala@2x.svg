@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Guatemala@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-154.000000, -866.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Guatemala">
+            <g transform="translate(84.000000, 796.000000)">
+                <g id="France-2">
+                    <g id="Belgium-5">
+                        <g id="Bahamas-6">
+                            <path d="M7.27,0.68 C3.76913134,0.674426271 0.922013633,3.49919612 0.9,7 L0.9,41.27 C0.9,44.782531 3.74746899,47.63 7.26,47.63 L24.26,47.63 C24.26,31.9633333 24.26,16.2966667 24.26,0.63 L7.27,0.68 Z" id="Shape" fill="#8CBAE2"></path>
+                            <path d="M24.25,0.68 C24.25,16.3466667 24.25,32.0133333 24.25,47.68 L47.6,47.68 C47.6,32.0133333 47.6,16.3466667 47.6,0.68 L24.25,0.68 Z" id="Shape" fill="#FFFFFF"></path>
+                            <path d="M64.54,0.68 L47.59,0.68 C47.59,16.3466667 47.59,32.0133333 47.59,47.68 L64.54,47.68 C68.052531,47.68 70.9,44.832531 70.9,41.32 L70.9,7 C70.8780065,3.50310001 68.0369691,0.679930837 64.54,0.68 Z" id="Shape" fill="#8CBAE2"></path>
+                        </g>
+                    </g>
+                </g>
+                <circle id="Oval" fill="#52C162" cx="35.9" cy="24.18" r="5"></circle>
+                <circle id="Ellipse_3_copy" fill="#FFCE54" cx="35.9" cy="24.18" r="4"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

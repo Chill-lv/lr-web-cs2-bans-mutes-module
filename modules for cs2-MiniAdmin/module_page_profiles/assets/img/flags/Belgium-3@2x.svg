@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Belgium-3@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-154.000000, -253.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Belgium-3">
+            <g transform="translate(84.000000, 183.000000)">
+                <g id="Bahamas-4">
+                    <path d="M7.27,0.85 C3.75746899,0.85 0.91,3.69746899 0.91,7.21 L0.91,41.48 C0.91,44.992531 3.75746899,47.84 7.27,47.84 L24.27,47.84 C24.27,32.1733333 24.27,16.5066667 24.27,0.84 L7.27,0.85 Z" id="Shape" fill="#434A54"></path>
+                    <path d="M24.25,0.85 C24.25,16.5166667 24.25,32.1833333 24.25,47.85 L47.6,47.85 C47.6,32.1833333 47.6,16.5166667 47.6,0.85 L24.25,0.85 Z" id="Shape" fill="#FFCE54"></path>
+                    <path d="M64.54,0.85 L47.59,0.85 C47.59,16.5166667 47.59,32.1833333 47.59,47.85 L64.54,47.85 C68.052531,47.85 70.9,45.002531 70.9,41.49 L70.9,7.21 C70.9,3.69746899 68.052531,0.85 64.54,0.85 Z" id="Shape" fill="#ED5565"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

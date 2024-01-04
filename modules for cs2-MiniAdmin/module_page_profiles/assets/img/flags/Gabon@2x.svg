@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Gabon@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-408.000000, -744.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Gabon">
+            <g transform="translate(338.000000, 674.000000)">
+                <g id="Bolivia-13">
+                    <path d="M0.77,6.76 L0.77,15.76 L70.77,15.76 L70.77,6.76 C70.77,3.09282926 67.7971707,0.12 64.13,0.12 L7.41,0.12 C5.64896251,0.12 3.96005253,0.81956942 2.71481097,2.06481097 C1.46956942,3.31005253 0.77,4.99896251 0.77,6.76 Z" id="Shape" fill="#52C162"></path>
+                    <polygon id="Shape" fill="#F2D660" points="0.77 31.46 70.77 31.46 70.77 15.79 0.77 15.79"></polygon>
+                    <path d="M0.77,40.47 C0.77,44.1371707 3.74282926,47.11 7.41,47.11 L64.13,47.11 C67.7971707,47.11 70.77,44.1371707 70.77,40.47 L70.77,31.47 L0.77,31.47 L0.77,40.47 Z" id="Shape" fill="#4758A9"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

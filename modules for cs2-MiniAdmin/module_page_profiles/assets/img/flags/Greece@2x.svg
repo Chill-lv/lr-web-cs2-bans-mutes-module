@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Greece@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-408.000000, -805.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Greece">
+            <g transform="translate(338.000000, 735.000000)">
+                <rect id="Rectangle-path" fill="#FFFFFF" x="0.77" y="36.95" width="70" height="5.22"></rect>
+                <rect id="Rectangle-path" fill="#4A89DC" x="0.77" y="31.73" width="70" height="5.22"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="0.77" y="26.51" width="70" height="5.22"></rect>
+                <rect id="Rectangle-path" fill="#4A89DC" x="0.77" y="21.29" width="70" height="5.22"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="0.77" y="16.06" width="70" height="5.22"></rect>
+                <rect id="Rectangle-path" fill="#4A89DC" x="0.77" y="10.84" width="70" height="5.22"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="1.37" y="5.62" width="69.4" height="5.22"></rect>
+                <path d="M7.13,47.4 L64.4,47.4 C67.4739553,47.4014518 70.1090083,45.2041712 70.66,42.18 L0.87,42.18 C1.42099171,45.2041712 4.05604465,47.4014518 7.13,47.4 Z" id="Shape" fill="#4A89DC"></path>
+                <path d="M64.4,0.4 L7.13,0.4 C4.05604465,0.398548191 1.42099171,2.59582876 0.87,5.62 L70.65,5.62 C70.0996855,2.59953724 67.470184,0.403377584 64.4,0.4 Z" id="Shape" fill="#4A89DC"></path>
+                <path d="M7.13,0.4 L26.88,0.4 L26.88,26.51 L0.77,26.51 L0.77,6.76 C0.77,3.24746899 3.61746899,0.4 7.13,0.4 Z" id="Shape" fill="#4A89DC"></path>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="0.77" y="10.84" width="26.11" height="5.22"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="11.21" y="0.4" width="5.22" height="26.11"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

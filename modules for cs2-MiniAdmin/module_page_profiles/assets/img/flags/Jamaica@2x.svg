@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Jamaica@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-154.000000, -1050.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Jamaica">
+            <g transform="translate(84.000000, 980.000000)">
+                <rect id="Rounded_Rectangle_7_copy-11" fill="#52C162" x="0.9" y="0.53" width="70" height="47" rx="6.36"></rect>
+                <path d="M3,2.14 C1.63641003,3.34588037 0.856922598,5.07969355 0.86,6.9 L0.86,41.17 C0.860877819,43.0086928 1.65995193,44.7564393 3.05,45.96 L32.86,24.53 L3,2.14 Z" id="Shape" fill="#434A54"></path>
+                <path d="M70.8999994,6.89 C70.9007152,5.2818527 70.2893275,3.73371884 69.1899994,2.56 L39.9,24.56 L69.1399994,45.56 C70.2685714,44.3809646 70.8989768,42.8121146 70.8999994,41.18 L70.8999994,6.89 Z" id="Shape" fill="#434A54"></path>
+                <path d="M70.46,43.5 L40.62,24.29 L70.62,4.96 C70.0802349,3.28904807 68.87564,1.91443526 67.29,1.16 L36,21.32 L4.61,1.12 C3.0228311,1.84877719 1.80449994,3.19725648 1.24,4.85 L31.41,24.27 L1.41,43.63 C2.10845493,45.2813215 3.46951601,46.5625337 5.16,47.16 L36,27.24 L66.83,47.08 C68.4849445,46.4429988 69.8001077,45.1459508 70.46,43.5 Z" id="Shape" fill="#FFCE54"></path>
+            </g>
+        </g>
+    </g>
+</svg>

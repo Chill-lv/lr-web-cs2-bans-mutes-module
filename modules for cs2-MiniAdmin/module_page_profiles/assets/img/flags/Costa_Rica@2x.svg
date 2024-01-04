@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Costa_Rica@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M64.4,0.27 L7.13,0.27 C3.61746899,0.27 0.77,3.11746899 0.77,6.63 L0.77,40.9 C0.77,42.5867769 1.4400695,44.2044678 2.63280087,45.3971991 C3.82553224,46.5899305 5.44322312,47.26 7.13,47.26 L64.4,47.26 C66.0867769,47.26 67.7044678,46.5899305 68.8971991,45.3971991 C70.0899305,44.2044678 70.76,42.5867769 70.76,40.9 L70.76,6.63 C70.76,3.11746899 67.912531,0.27 64.4,0.27 Z" id="path-1"></path>
+    </defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-70.000000, -560.000000)">
+        <g transform="translate(70.000000, 70.000000)" id="Costa_Rica">
+            <g transform="translate(0.000000, 490.000000)">
+                <g id="Group">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Shape" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    <polygon id="Shape" fill="#4758A9" fill-rule="nonzero" mask="url(#mask-2)" points="-8 0.2 70.57 0.2 70.57 47.34 -8 47.34"></polygon>
+                    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)" points="-8 8.05 70.57 8.05 70.57 39.48 -8 39.48"></polygon>
+                    <polygon id="Shape" fill="#ED5565" fill-rule="nonzero" mask="url(#mask-2)" points="-8 15.91 70.57 15.91 70.57 31.62 -8 31.62"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

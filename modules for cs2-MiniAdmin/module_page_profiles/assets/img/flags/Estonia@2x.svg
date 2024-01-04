@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Estonia-2@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-408.000000, -682.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Estonia-2">
+            <g transform="translate(338.000000, 612.000000)">
+                <g id="Bolivia-12">
+                    <path d="M0.77,7.47 L0.77,16.47 L70.77,16.47 L70.77,7.47 C70.77,3.80282926 67.7971707,0.83 64.13,0.83 L7.41,0.83 C3.74282926,0.83 0.77,3.80282926 0.77,7.47 Z" id="Shape" fill="#3BAFDA"></path>
+                    <polygon id="Shape" fill="#434A54" points="0.77 32.18 70.77 32.18 70.77 16.51 0.77 16.51"></polygon>
+                    <path d="M0.77,41.19 C0.77,44.8571707 3.74282926,47.83 7.41,47.83 L64.13,47.83 C67.7971707,47.83 70.77,44.8571707 70.77,41.19 L70.77,32.19 L0.77,32.19 L0.77,41.19 Z" id="Shape" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

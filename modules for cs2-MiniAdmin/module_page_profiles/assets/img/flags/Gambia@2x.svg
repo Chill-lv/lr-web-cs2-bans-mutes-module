@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Gambia@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-70.000000, -805.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Gambia">
+            <g transform="translate(0.000000, 735.000000)">
+                <path d="M0.28,41 C0.28,44.512531 3.12746899,47.36 6.64,47.36 L63.92,47.36 C67.432531,47.36 70.28,44.512531 70.28,41 L70.28,32.4 L0.28,32.4 L0.28,41 Z" id="Shape" fill="#52C162"></path>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="0.28" y="30.4" width="70" height="2"></rect>
+                <rect id="Rectangle-path" fill="#4758A9" x="0.28" y="17.4" width="70" height="13"></rect>
+                <path d="M63.92,0.4 L6.65,0.4 C3.13746899,0.4 0.29,3.2474675 0.29,6.75999666 L0.29,15.3999921 L70.29,15.3999921 L70.29,6.75999666 C70.2900021,5.07148663 69.61856,3.45227928 68.423665,2.25926067 C67.2287699,1.06624205 65.6085088,0.39734511 63.92,0.4 Z" id="Shape" fill="#ED5565"></path>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="0.28" y="15.4" width="70" height="1.95"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="0.28" y="17.34" width="70" height="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

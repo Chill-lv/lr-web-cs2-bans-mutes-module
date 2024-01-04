@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Egypt@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-70.000000, -682.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Egypt">
+            <g transform="translate(0.000000, 612.000000)">
+                <g id="Bolivia-3">
+                    <path d="M0.28,7.47 L0.28,16.47 L70.28,16.47 L70.28,7.47 C70.28,3.80282926 67.3071707,0.83 63.64,0.83 L6.93,0.83 C5.16723053,0.827345224 3.47575038,1.52574249 2.22834517,2.7712719 C0.980939967,4.01680131 0.279998001,5.70722853 0.28,7.47 Z" id="Shape" fill="#ED5565"></path>
+                    <polygon id="Shape" fill="#FFFFFF" points="0.28 32.18 70.28 32.18 70.28 16.51 0.28 16.51"></polygon>
+                    <path d="M0.28,41.19 C0.28,44.8571707 3.25282926,47.83 6.92,47.83 L63.64,47.83 C67.3071707,47.83 70.28,44.8571707 70.28,41.19 L70.28,32.19 L0.28,32.19 L0.28,41.19 Z" id="Shape" fill="#434A54"></path>
+                </g>
+                <path d="M37.87,19.8 L37,18.6 C36.868872,18.439834 36.6766539,18.3419115 36.47,18.33 L34.37,18.33 L33.67,22.13 L36.9,22.13 L36.47,19.8 L37.87,19.8 Z M37.57,30.33 L40.79,22.13 L29.79,22.13 L33,30.32 L37.57,30.32 L37.57,30.33 Z" id="Shape" fill="#FFCE54"></path>
+            </g>
+        </g>
+    </g>
+</svg>

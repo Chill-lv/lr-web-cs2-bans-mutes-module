@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Bolivia-2@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-70.000000, -376.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Bolivia-2">
+            <g transform="translate(0.000000, 306.000000)">
+                <path d="M0.28,7.06 L0.28,16.06 L70.28,16.06 L70.28,7.06 C70.28,3.39282926 67.3071707,0.42 63.64,0.42 L6.93,0.42 C5.16723053,0.417345224 3.47575038,1.11574249 2.22834517,2.3612719 C0.980939967,3.60680131 0.279998001,5.29722853 0.28,7.06 Z" id="Shape" fill="#FFFFFF"></path>
+                <polygon id="Shape" fill="#52C162" points="0.28 31.76 70.28 31.76 70.28 16.09 0.28 16.09"></polygon>
+                <path d="M0.28,40.77 C0.28,44.4371707 3.25282926,47.41 6.92,47.41 L63.64,47.41 C67.3071707,47.41 70.28,44.4371707 70.28,40.77 L70.28,31.77 L0.28,31.77 L0.28,40.77 Z" id="Shape" fill="#ED5565"></path>
+            </g>
+        </g>
+    </g>
+</svg>

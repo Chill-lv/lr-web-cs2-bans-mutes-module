@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Ireland@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-324.000000, -989.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Ireland">
+            <g transform="translate(254.000000, 919.000000)">
+                <g id="France-5">
+                    <g id="Belgium-9">
+                        <g id="Bahamas-10">
+                            <path d="M6.51,0.25 C2.99746899,0.25 0.15,3.09746899 0.15,6.61 L0.15,40.88 C0.15,44.392531 2.99746899,47.24 6.51,47.24 L23.51,47.24 C23.51,31.5733333 23.51,15.9066667 23.51,0.24 L6.51,0.25 Z" id="Shape" fill="#57A863"></path>
+                            <path d="M23.49,0.25 C23.49,15.9166667 23.49,31.5833333 23.49,47.25 L46.84,47.25 C46.84,31.5833333 46.84,15.9166667 46.84,0.25 L23.49,0.25 Z" id="Shape" fill="#FFFFFF"></path>
+                            <path d="M63.78,0.25 L46.83,0.25 C46.83,15.9166667 46.83,31.5833333 46.83,47.25 L63.78,47.25 C67.292531,47.25 70.14,44.402531 70.14,40.89 L70.14,6.61 C70.14,3.09746899 67.292531,0.25 63.78,0.25 Z" id="Shape" fill="#FC6E51"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

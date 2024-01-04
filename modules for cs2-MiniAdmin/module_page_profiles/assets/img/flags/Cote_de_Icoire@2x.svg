@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="48px" viewBox="0 0 71 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Cote_de_Icoire@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flags" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-154.000000, -560.000000)">
+        <g transform="translate(70.000000, 70.000000)" fill-rule="nonzero" id="Cote_de_Icoire">
+            <g transform="translate(84.000000, 490.000000)">
+                <g id="Belgium-4">
+                    <g id="Bahamas-5">
+                        <path d="M7.27,0.27 C3.75746899,0.27 0.91,3.11746899 0.91,6.63 L0.91,40.9 C0.91,42.5867769 1.5800695,44.2044678 2.77280087,45.3971991 C3.96553224,46.5899305 5.58322312,47.26 7.27,47.26 L24.27,47.26 C24.27,31.5933333 24.27,15.9266667 24.27,0.26 L7.27,0.27 Z" id="Shape" fill="#FFAD54"></path>
+                        <path d="M24.25,0.27 C24.25,15.9366667 24.25,31.6033333 24.25,47.27 L47.6,47.27 C47.6,31.6033333 47.6,15.9366667 47.6,0.27 L24.25,0.27 Z" id="Shape" fill="#FFFFFF"></path>
+                        <path d="M64.54,0.27 L47.59,0.27 C47.59,15.9366667 47.59,31.6033333 47.59,47.27 L64.54,47.27 C68.052531,47.27 70.9,44.422531 70.9,40.91 L70.9,6.63 C70.9,3.11746899 68.052531,0.27 64.54,0.27 Z" id="Shape" fill="#52C162"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
