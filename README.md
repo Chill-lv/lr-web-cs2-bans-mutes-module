@@ -29,7 +29,7 @@ Basic Ban/Comms List Page that works with user profiles for your LR Web!  Module
 
 ## Support?
 
-NO Support! we will not respond to issues but  we will release fixes if needed, feel free to make pr if you have bug fix / optimisation or any other updates!
+NO Support! We will not respond to issues but  we will release fixes if needed, feel free to make pr if you have bug fix / optimisation or any other updates!
 
 
 ## To Do:
