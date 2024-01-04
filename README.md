@@ -15,7 +15,20 @@ Basic Ban List Page for your LR Web edit by Chill.lv team :)
 
 ## Installation:
 
-Demo Page:
+1. Make backup of your module before you do anything
+2. Move module_page_bans, module_page_comms & module_page_profiles to /app/modules/
+3. Go to AdminCP  & refresh module cache 
+4. Go to AdminCP - Database Settings - Add MiniAdmin for table use miniadmin
 
+## Info:
+
+[Demo Page Bans ](https://stats.chill.lv/bans/)
+
+[Demo Page Profile ](https://stats.chill.lv/profiles/STEAM_1:0:2133916/0/)
 
 NO Support! we will not respond to issues but  we will release fixes if needed, feel free to make pr if you have bug fix / optimisation or any other updates!
+
+
+## To Do:
+
+Update MiniSystems module to work with this ban list.
