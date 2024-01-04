@@ -34,7 +34,7 @@ NO Support! We will not respond to issues but  we will release fixes if needed, 
 
 ## To Do:
 
-Update MiniSystems module to work with this miniadmin plugin.
+Update  WEB MiniSystems module to work with this miniadmin plugin.
 
 
 ## Credits:
