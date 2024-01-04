@@ -1,6 +1,8 @@
+![image](https://github.com/Chill-lv/lr-web-cs2-bans-mutes-module/assets/47292145/277962cd-80d8-44e2-a176-078965e9771c)
+
+
 Basic Ban List Page for your LR Web edit by Chill.lv team :)
 
-Preview:
 
 Requirements:
 
