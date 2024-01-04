@@ -1,0 +1,54 @@
+{
+    "_Comms_Admin": {
+        "EN": "Admin",
+        "RU": "Администратор"	
+    },
+    "_Muted_User": {
+        "EN": "Muted user",
+        "RU": "Замученный"	
+    },
+    "_Comms_Date": {
+        "EN": "Mute date",
+        "RU": "Дата мута"	
+    },
+    "_Comms_Reason": {
+        "EN": "Mute reason",
+        "RU": "Причина мута"	
+    },
+    "_Comms_GameBlock": {
+        "EN": "Mutes/Gags",
+        "RU": "Блокировки общения"	
+    },
+    "_Bans_GameBlock": {
+        "EN": "Bans",
+        "RU": "Игровые блокировки"	
+    },
+    "_Comms_Term": {
+        "EN": "Length",
+        "RU": "Срок мута"	
+    },
+    "_Comms_Type": {
+        "EN": "Mute type",
+        "RU": "Тип мута"	
+    },
+    "_Type_Mic": {
+        "EN": "Microphone",
+        "RU": "Микрофон"	
+    },
+    "_Type_Chat": {
+        "EN": "Chat",
+        "RU": "Чат"	
+    },
+    "_Type_Chat_Mic": {
+        "EN": "Microphone + Chat",
+        "RU": "Микрофон + Чат"	
+    },
+    "_Unmute": {
+        "EN": "Removed",
+        "RU": "Удаленный"
+    },
+    "_MuteExpired": {
+        "EN": "Expired",
+        "RU": "Истекший"
+    }
+}
