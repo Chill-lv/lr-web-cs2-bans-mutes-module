@@ -37,4 +37,9 @@ NO Support! we will not respond to issues but  we will release fixes if needed, 
 
 ## To Do:
 
-Update MiniSystems module to work with this ban list.
+Update MiniSystems module to work with this miniadmin plugin.
+
+
+## Credits:
+
+Thanks to LR WEb Team for providing web part, Stellar Lounge Discord server fo providing rich template & big thanks to partiusfabaa for making cssharp admin plugin!
