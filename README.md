@@ -19,7 +19,7 @@ Basic Ban/Comms List Page that works with user profiles for your LR Web!  Module
 1. Make backup of your module before you do anything
 2. Move module_page_bans, module_page_comms & module_page_profiles to /app/modules/
 3. Go to AdminCP  & refresh module cache 
-4. Go to AdminCP - Database Settings - Add MiniAdmin for table use miniadmin
+4. Go to AdminCP - Database Settings - Add MiniAdmin for table use miniadmin_
 
 ## Demo:
 
@@ -62,7 +62,7 @@ WEB-часть [Rich Template](https://discord.com/invite/sYKAk3GCbD)
 1. Создайте резервную копию вашего модуля перед тем, как делать что-либо еще.
 2. Переместите module_page_bans, module_page_comms и module_page_profiles в /app/modules/
 3. Перейдите в AdminCP и обновите кэш модуля.
-4. Перейдите в AdminCP - Настройки базы данных - Добавьте MiniAdmin для использования таблицы miniadmin
+4. Перейдите в AdminCP - Настройки базы данных - Добавьте MiniAdmin для использования таблицы miniadmin_
 
 ## Демонстрация:
 [Страница запретов Демо](https://stats.chill.lv/bans/)
