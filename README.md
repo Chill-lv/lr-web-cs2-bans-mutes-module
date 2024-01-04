@@ -1,6 +1,7 @@
+## CS2 Ban List 
 ![image](https://github.com/Chill-lv/lr-web-cs2-bans-mutes-module/assets/47292145/f60b898c-63ac-422d-aac6-d72f5731dd6c)
 
-
+# Desc:
 Basic Ban/Comms List Page that works with user profiles for your LR Web!  Module Edit by Chill.lv team :)
 
 
