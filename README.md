@@ -9,7 +9,7 @@ Basic Ban/Comms List Page that works with user profiles for your LR Web!  Module
 
 [LRWEB](https://github.com/levelsranks/levels-ranks-web) WEB Part
 
-[Rich Template](https://discord.com/invite/sYKAk3GCbD) WEB Part
+[Rich Template](https://discord.com/invite/sYKAk3GCbD) WEB Part (Optional but will look way better with this free to use template)
 
 [MiniAdmin](https://github.com/partiusfabaa/cs2-MiniAdmin) Counter-Strike Sharp Plugin
 
